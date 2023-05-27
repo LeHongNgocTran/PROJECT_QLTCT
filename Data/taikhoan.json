@@ -1,0 +1,12 @@
+[
+   {
+    "mataikhoan": "admin",
+    "matkhau": "123456",
+    "phanquyen": 1
+   },
+   {
+    "mataikhoan": "user1",
+    "matkhau": "123456",
+    "phanquyen": 0
+   }
+]

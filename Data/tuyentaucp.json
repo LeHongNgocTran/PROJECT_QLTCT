@@ -1,0 +1,584 @@
+[
+  {
+    "loai": "tàu",
+    "diemdi": "Hà Tiên",
+    "diemden": "Phú Quốc",
+    "giavehanhkhach": [
+      {
+        "label": "Người lớn",
+        "gia": 230000
+      },
+      {
+        "label": " Người cao tuổi (từ 60 tuổi trở lên, áp dụng cho công dân VN)",
+        "gia": 195000
+      },
+      {
+        "label": "Người khuyết tật (áp dụng cho công dân VN)",
+        "gia": 170000
+      },
+      {
+        "label": "Trẻ em (Từ 6-11 tuổi tính theo năm sinh)",
+        "gia": 160000
+      }
+    ],
+    "matuyentau": "MTTHTPQ01",
+    "trangthai": true
+  },
+  {
+    "loai": "tàu",
+    "diemdi": "Rạch Giá",
+    "diemden": "Nam Du",
+    "giavehanhkhach": [
+      {
+        "label": "Người lớn",
+        "gia": 230000
+      },
+      {
+        "label": " Người cao tuổi (từ 60 tuổi trở lên, áp dụng cho công dân VN)",
+        "gia": 192000
+      },
+      {
+        "label": "Người khuyết tật (áp dụng cho công dân VN)",
+        "gia": 173000
+      },
+      {
+        "label": "Trẻ em (Từ 6-11 tuổi tính theo năm sinh)",
+        "gia": 173000
+      }
+    ],
+    "trangthai": true,
+    "matuyentau": "MTTRGND02"
+  },
+  {
+    "trangthai": false,
+    "loai": "tàu",
+    "diemdi": "Rạch Giá",
+    "diemden": "Lại Sơn",
+    "giavehanhkhach": [
+      {
+        "label": "Người lớn",
+        "gia": 160000
+      },
+      {
+        "label": " Người cao tuổi (từ 60 tuổi trở lên, áp dụng cho công dân VN)",
+        "gia": 137000
+      },
+      {
+        "label": "Người khuyết tật (áp dụng cho công dân VN)",
+        "gia": 120000
+      },
+      {
+        "label": "Trẻ em (Từ 6-11 tuổi tính theo năm sinh)",
+        "gia": 120000
+      }
+    ],
+    "matuyentau": "MTTRGLS03"
+  },
+  {
+    "loai": "tàu",
+    "trangthai": true,
+    "diemdi": "Sóc Trăng",
+    "diemden": "Côn Đảo",
+    "giavehanhkhach": [
+      {
+        "label": "Người lớn",
+        "gia": 370000
+      },
+      {
+        "label": " Người cao tuổi (từ 60 tuổi trở lên, áp dụng cho công dân VN)",
+        "gia": 325000
+      },
+      {
+        "label": "Người khuyết tật (áp dụng cho công dân VN)",
+        "gia": 290000
+      },
+      {
+        "label": "Trẻ em (Từ 6-11 tuổi tính theo năm sinh)",
+        "gia": 280000
+      }
+    ],
+    "matuyentau": "MTTSTCD04"
+  },
+  {
+    "loai": "tàu",
+    "diemdi": "Phan Thiết",
+    "diemden": "Phú Quý",
+    "trangthai": true,
+    "giavehanhkhach": [
+      {
+        "label": "Người lớn",
+        "gia": 400000
+      },
+      {
+        "label": " Người cao tuổi (từ 60 tuổi trở lên, áp dụng cho công dân VN)",
+        "gia": 295000
+      },
+      {
+        "label": "Người khuyết tật (áp dụng cho công dân VN)",
+        "gia": 260000
+      },
+      {
+        "label": "Trẻ em (Từ 6-11 tuổi tính theo năm sinh)",
+        "gia": 250000
+      }
+    ],
+    "matuyentau": "MTTPTPQ05"
+  },
+  {
+    "loai": "tàu",
+    "diemdi": "Rạch Giá",
+    "diemden": "Phú Quốc",
+    "trangthai": true,
+    "giavehanhkhach": [
+      {
+        "label": "Người lớn",
+        "gia": 330000
+      },
+      {
+        "label": " Người cao tuổi (từ 60 tuổi trở lên, áp dụng cho công dân VN)",
+        "gia": 280000
+      },
+      {
+        "label": "Người khuyết tật (áp dụng cho công dân VN)",
+        "gia": 245000
+      },
+      {
+        "label": "Trẻ em (Từ 6-11 tuổi tính theo năm sinh)",
+        "gia": 240000
+      }
+    ],
+    "matuyentau": "MTTRGPQ06"
+  },
+  {
+    "loai": "tàu",
+    "diemdi": "Rạch Giá",
+    "diemden": "Hòn Nghệ",
+    "trangthai": true,
+    "giavehanhkhach": [
+      {
+        "label": "Người lớn",
+        "gia": 210000
+      },
+      {
+        "label": " Người cao tuổi (từ 60 tuổi trở lên, áp dụng cho công dân VN)",
+        "gia": 175000
+      },
+      {
+        "label": "Người khuyết tật (áp dụng cho công dân VN)",
+        "gia": 155000
+      },
+      {
+        "label": "Trẻ em (Từ 6-11 tuổi tính theo năm sinh)",
+        "gia": 150000
+      }
+    ],
+    "matuyentau": "MTTRGHN07"
+  },
+  {
+    "loai": "tàu",
+    "diemdi": "Phú Quốc",
+    "diemden": "Nam Du",
+    "trangthai": true,
+    "giavehanhkhach": [
+      {
+        "label": "Người lớn",
+        "gia": 250000
+      },
+      {
+        "label": " Người cao tuổi (từ 60 tuổi trở lên, áp dụng cho công dân VN)",
+        "gia": 210000
+      },
+      {
+        "label": "Người khuyết tật (áp dụng cho công dân VN)",
+        "gia": 210000
+      },
+      {
+        "label": "Trẻ em (Từ 6-11 tuổi tính theo năm sinh)",
+        "gia": 200000
+      }
+    ],
+    "matuyentau": "MTTPQND08"
+  },
+  {
+    "loai": "phà",
+    "diemdi": "Hà Tiên",
+    "diemden": "Phú Quốc",
+    "trangthai": true,
+    "giavehanhkhach": [
+      {
+        "label": "Người lớn",
+        "gia": 185000
+      },
+      {
+        "label": " Người cao tuổi (từ 60 tuổi trở lên, áp dụng cho công dân VN)",
+        "gia": 155000
+      },
+      {
+        "label": "Người khuyết tật (áp dụng cho công dân VN)",
+        "gia": 135000
+      },
+      {
+        "label": "Trẻ em (Từ 6-11 tuổi tính theo năm sinh)",
+        "gia": 125000
+      }
+    ],
+    "giavexe": [
+      {
+        "label": "Xe máy",
+        "gia": 80000
+      },
+      {
+        "label": "Xe ô tô từ 4-5 chỗ",
+        "gia": 7000000
+      },
+      {
+        "label": "Xe ô tô trên 9 đến 16 chỗ ",
+        "gia": 1200000
+      },
+      {
+        "label": "Xe ô tô trên 16 đến 25 chỗ",
+        "gia": 1800000
+      },
+      {
+        "label": "Xe ô tô trên  25 chỗ",
+        "gia": 3000000
+      }
+    ],
+    "giavexetai": [
+      {
+        "label": "Xe ba gác (thô sơ)",
+        "gia": 540000
+      },
+      {
+        "label": "Xe tải 500kg - dưới 1.5 tấn",
+        "gia": 1200000
+      },
+      {
+        "label": "Xe tải 1.5 tấn - dưới 2.5 tấn",
+        "gia": 1400000
+      },
+      {
+        "label": "Xe tải 2.5 tấn - dưới 3.5 tấn",
+        "gia": 1600000
+      },
+      {
+        "label": "Xe tải 3.5 tấn - dưới 4.5 tấn",
+        "gia": 1800000
+      },
+      {
+        "label": "Xe tải 4.5 tấn - dưới 5.5 tấn",
+        "gia": 2000000
+      },
+      {
+        "label": "Xe tải trên 8 tấn",
+        "gia": 300000
+      }
+    ],
+    "giavecontainer": [
+      {
+        "label": "Container 20 feet",
+        "gia": 6000000
+      },
+      {
+        "label": "Container 40 feet",
+        "gia": 8000000
+      },
+      {
+        "label": "Container 45 feet",
+        "gia": 10000000
+      }
+    ],
+    "matuyentau": "MTPHTPQ01"
+  },
+  {
+    "loai": "tàu",
+    "diemdi": "Phú Quốc",
+    "diemden": "Hà Tiên",
+    "giavehanhkhach": [
+      {
+        "label": "Người lớn",
+        "gia": 230000
+      },
+      {
+        "label": " Người cao tuổi (từ 60 tuổi trở lên, áp dụng cho công dân VN)",
+        "gia": 195000
+      },
+      {
+        "label": "Người khuyết tật (áp dụng cho công dân VN)",
+        "gia": 170000
+      },
+      {
+        "label": "Trẻ em (Từ 6-11 tuổi tính theo năm sinh)",
+        "gia": 160000
+      }
+    ],
+    "matuyentau": "MTTPQHT10",
+    "trangthai": true
+  },
+  {
+    "loai": "tàu",
+    "diemdi": "Nam Du",
+    "diemden": "Rạch Giá",
+    "giavehanhkhach": [
+      {
+        "label": "Người lớn",
+        "gia": 230000
+      },
+      {
+        "label": " Người cao tuổi (từ 60 tuổi trở lên, áp dụng cho công dân VN)",
+        "gia": 192000
+      },
+      {
+        "label": "Người khuyết tật (áp dụng cho công dân VN)",
+        "gia": 173000
+      },
+      {
+        "label": "Trẻ em (Từ 6-11 tuổi tính theo năm sinh)",
+        "gia": 173000
+      }
+    ],
+    "trangthai": true,
+    "matuyentau": "MTTNDRG11"
+  },
+  {
+    "trangthai": false,
+    "loai": "tàu",
+    "diemdi": "Lại Sơn",
+    "diemden": "Rạch Giá",
+    "giavehanhkhach": [
+      {
+        "label": "Người lớn",
+        "gia": 160000
+      },
+      {
+        "label": " Người cao tuổi (từ 60 tuổi trở lên, áp dụng cho công dân VN)",
+        "gia": 137000
+      },
+      {
+        "label": "Người khuyết tật (áp dụng cho công dân VN)",
+        "gia": 120000
+      },
+      {
+        "label": "Trẻ em (Từ 6-11 tuổi tính theo năm sinh)",
+        "gia": 120000
+      }
+    ],
+    "matuyentau": "MTTLSRG12"
+  },
+  {
+    "loai": "tàu",
+    "trangthai": true,
+    "diemdi": "Côn Đảo",
+    "diemden": "Sóc Trăng",
+    "giavehanhkhach": [
+      {
+        "label": "Người lớn",
+        "gia": 370000
+      },
+      {
+        "label": " Người cao tuổi (từ 60 tuổi trở lên, áp dụng cho công dân VN)",
+        "gia": 325000
+      },
+      {
+        "label": "Người khuyết tật (áp dụng cho công dân VN)",
+        "gia": 290000
+      },
+      {
+        "label": "Trẻ em (Từ 6-11 tuổi tính theo năm sinh)",
+        "gia": 280000
+      }
+    ],
+    "matuyentau": "MTTCDST14"
+  },
+  {
+    "loai": "tàu",
+    "diemdi": "Phú Quý",
+    "diemden": "Phan Thiết",
+    "trangthai": true,
+    "giavehanhkhach": [
+      {
+        "label": "Người lớn",
+        "gia": 400000
+      },
+      {
+        "label": " Người cao tuổi (từ 60 tuổi trở lên, áp dụng cho công dân VN)",
+        "gia": 295000
+      },
+      {
+        "label": "Người khuyết tật (áp dụng cho công dân VN)",
+        "gia": 260000
+      },
+      {
+        "label": "Trẻ em (Từ 6-11 tuổi tính theo năm sinh)",
+        "gia": 250000
+      }
+    ],
+    "matuyentau": "MTTPQPT14"
+  },
+  {
+    "loai": "tàu",
+    "diemdi": "Phú Quốc",
+    "diemden": "Rạch Giá",
+    "trangthai": true,
+    "giavehanhkhach": [
+      {
+        "label": "Người lớn",
+        "gia": 330000
+      },
+      {
+        "label": " Người cao tuổi (từ 60 tuổi trở lên, áp dụng cho công dân VN)",
+        "gia": 280000
+      },
+      {
+        "label": "Người khuyết tật (áp dụng cho công dân VN)",
+        "gia": 245000
+      },
+      {
+        "label": "Trẻ em (Từ 6-11 tuổi tính theo năm sinh)",
+        "gia": 240000
+      }
+    ],
+    "matuyentau": "MTTPQRG15"
+  },
+  {
+    "loai": "tàu",
+    "diemdi": "Hòn Nghệ",
+    "diemden": "Rạch Giá",
+    "trangthai": true,
+    "giavehanhkhach": [
+      {
+        "label": "Người lớn",
+        "gia": 210000
+      },
+      {
+        "label": " Người cao tuổi (từ 60 tuổi trở lên, áp dụng cho công dân VN)",
+        "gia": 175000
+      },
+      {
+        "label": "Người khuyết tật (áp dụng cho công dân VN)",
+        "gia": 155000
+      },
+      {
+        "label": "Trẻ em (Từ 6-11 tuổi tính theo năm sinh)",
+        "gia": 150000
+      }
+    ],
+    "matuyentau": "MTTHNRG16"
+  },
+  {
+    "loai": "tàu",
+    "diemdi": "Nam Du",
+    "diemden": "Phú Quốc",
+    "trangthai": true,
+    "giavehanhkhach": [
+      {
+        "label": "Người lớn",
+        "gia": 250000
+      },
+      {
+        "label": " Người cao tuổi (từ 60 tuổi trở lên, áp dụng cho công dân VN)",
+        "gia": 210000
+      },
+      {
+        "label": "Người khuyết tật (áp dụng cho công dân VN)",
+        "gia": 210000
+      },
+      {
+        "label": "Trẻ em (Từ 6-11 tuổi tính theo năm sinh)",
+        "gia": 200000
+      }
+    ],
+    "matuyentau": "MTTNDPQ17"
+  },
+  {
+    "loai": "phà",
+    "diemdi": "Phú Quốc",
+    "diemden": "Hà Tiên",
+    "trangthai": true,
+    "giavehanhkhach": [
+      {
+        "label": "Người lớn",
+        "gia": 185000
+      },
+      {
+        "label": " Người cao tuổi (từ 60 tuổi trở lên, áp dụng cho công dân VN)",
+        "gia": 155000
+      },
+      {
+        "label": "Người khuyết tật (áp dụng cho công dân VN)",
+        "gia": 135000
+      },
+      {
+        "label": "Trẻ em (Từ 6-11 tuổi tính theo năm sinh)",
+        "gia": 125000
+      }
+    ],
+    "giavexe": [
+      {
+        "label": "Xe máy",
+        "gia": 80000
+      },
+      {
+        "label": "Xe ô tô từ 4-5 chỗ",
+        "gia": 7000000
+      },
+      {
+        "label": "Xe ô tô trên 9 đến 16 chỗ ",
+        "gia": 1200000
+      },
+      {
+        "label": "Xe ô tô trên 16 đến 25 chỗ",
+        "gia": 1800000
+      },
+      {
+        "label": "Xe ô tô trên  25 chỗ",
+        "gia": 3000000
+      }
+    ],
+    "giavexetai": [
+      {
+        "label": "Xe ba gác (thô sơ)",
+        "gia": 540000
+      },
+      {
+        "label": "Xe tải 500kg - dưới 1.5 tấn",
+        "gia": 1200000
+      },
+      {
+        "label": "Xe tải 1.5 tấn - dưới 2.5 tấn",
+        "gia": 1400000
+      },
+      {
+        "label": "Xe tải 2.5 tấn - dưới 3.5 tấn",
+        "gia": 1600000
+      },
+      {
+        "label": "Xe tải 3.5 tấn - dưới 4.5 tấn",
+        "gia": 1800000
+      },
+      {
+        "label": "Xe tải 4.5 tấn - dưới 5.5 tấn",
+        "gia": 2000000
+      },
+      {
+        "label": "Xe tải trên 8 tấn",
+        "gia": 300000
+      }
+    ],
+    "giavecontainer": [
+      {
+        "label": "Container 20 feet",
+        "gia": 6000000
+      },
+      {
+        "label": "Container 40 feet",
+        "gia": 8000000
+      },
+      {
+        "label": "Container 45 feet",
+        "gia": 10000000
+      }
+    ],
+    "matuyentau": "MTPPQHT18"
+  }
+]

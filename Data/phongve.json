@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Trụ sở chính tại Phú Quốc",
+        "address": "Số 187 Đường Nguyễn Trung Trực, Khu phố 5, Phường Dương Đông, Thành phố Phú Quốc, Tỉnh Kiên Giang.",
+        "phone": "(0297) 3980 111",
+        "email": "phuquoc.sales@superdong.com.vn",
+        "note": "Đường dây nóng hỗ trợ booking online: 0941 130 033 (Giờ làm việc: 6:00 - 21:00)"
+    },
+    {
+        "name": "Văn Phòng Đại diện hồ chí minh",
+        "address": "Số 610 Đường Điện Biên Phủ, Phường 11, Quận 10, TP.HCM.",
+        "phone": "(028)38 666 333",
+        "email": "saigon.sales@superdong.com.vn"
+    },
+    {
+        "name": "Phòng vé nam du",
+        "address": "Xã  An Sơn, Huyện Kiên Hải, Tỉnh Kiên Giang.",
+        "phone": ": (0297) 3890 389 / (0297) 3777 989"
+    },
+    {
+        "name": "Phòng vé Lại Sơn",
+        "address": "Ấp Bãi Nhà, Xã Lại Sơn, Huyện Kiên Hải, Tỉnh Kiên Giang.",
+        "phone": "091 1541 331"
+    },
+    {
+        "name": "PHÒNG VÉ RẠCH GIÁ",
+        "address": "Số 01 Lô 4 Đường 3/2, Phường Vĩnh Thanh Vân, TP. Rạch Giá, Tỉnh Kiên Giang.",
+        "phone": "(0297) 3877 742",
+        "email": "rachgia.sales@superdong.com.vn"
+    },
+    {
+        "name": "Phòng vé Phan thiết",
+        "address": "Số 169 Đường Võ Thị Sáu, Phường Hưng Long, Thành phố Phan Thiết, Tỉnh Bình Thuận.",
+        "phone": " (0252) 3817 337 / (0252) 3817 338",
+        "hotline": "Đường dây nóng: 0946 198 768",
+        "email": "phanthiet.sales@superdong.com.vn"
+    },
+    {
+        "name": "Phòng vé Phú Quý",
+        "address": "Số 11 Đường Ngô Quyền, Thôn Triều Dương, Xã Tam Thanh, Huyện Phú Quý, Tỉnh Bình Thuận.",
+        "phone": " (0252) 3765 999 / (0252) 3768 666"
+    },
+    {
+        "name": "Phòng vé Sóc Trăng",
+        "address": "Số 193 Đường Lê Hồng Phong, Phường 3, Thành phố Sóc Trăng.",
+        "phone": "(0299) 3616 111- (0299) 3637 888",
+        "hotline": "(0299) 3616 111- (0299) 3637 888",
+        "email": "soctrang.sales@superdong.com.vn"
+    },
+    {
+        "name": "phòng vé Trần đề",
+        "address": "Ấp Đầu Giồng, Huyện Trần Đề, Tỉnh Sóc Trăng, Bến Cảng Superdong Trần Đề - Sóc Trăng.",
+        "phone": " (0252) 3765 999 / (0252) 3768 666"
+    },
+    {
+        "name": "phòng vé côn đảo",
+        "address": "Đường Trần Phú, khu 6, Thị trấn Côn Đảo, Huyện Côn Đảo, Tỉnh Bà Rịa- Vũng Tàu.",
+        "phone": "(0254) 3.630.138 / ( 0254) 3.630.139"
+    },
+    {
+        "name": "phòng vé hòn nghệ",
+        "address": "Tổ 1, Ấp Bãi Nam, Xã Hòn Nghệ, Huyện Kiên Lương, Tỉnh Kiên Giang.",
+        "phone": "(028)38 666 333"
+    },
+    {
+        "name": "phòng vé cần thơ",
+        "address": "Số 62B Đường Võ Nguyên Giáp, Phường Tân Phú, Quận Cái Răng, TP. Cần Thơ.",
+        "phone": "(0297) 3980 111"
+    },
+    {
+        "name": "phòng vé hòn tre",
+        "address": "Ấp 1 Hòn Tre, Huyện Kiên Hải, Tỉnh Kiên Giang."
+    }
+]
