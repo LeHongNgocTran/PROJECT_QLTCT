@@ -1,0 +1,52 @@
+// .wrapper {
+//   background-color: white;
+// }
+
+table {
+  border-radius: 5px;
+}
+
+tr {
+  padding: 10px 0px;
+}
+
+.button {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  button {
+    cursor: pointer;
+    border: none;
+    padding: 7px 20px;
+    margin-right: 10px;
+    border-radius: 5px;
+  }
+
+  .next {
+    background-color: rgb(15, 15, 141);
+    color: white;
+
+    &:hover {
+      opacity: 0.8;
+    }
+  }
+
+  .back {
+    background-color: #ffc93c;
+
+    &:hover {
+      opacity: 0.8;
+    }
+  }
+}
+
+.step_progress {
+  height: 100px;
+  // background-color: rgb(15, 15, 141);
+  // border-radius: 5px;
+  .step {
+    position: relative;
+    top: 40px;
+  }
+}

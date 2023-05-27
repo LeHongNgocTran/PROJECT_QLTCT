@@ -1,0 +1,48 @@
+.infor_col1 {
+  h5 {
+    text-transform: uppercase;
+    font-weight: bold;
+    color: black;
+  }
+
+  .infor {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+    .infor_label {
+      text-transform: uppercase;
+      color: gray;
+      margin-bottom: 5px;
+      font-size: 0.7rem;
+      font-weight: bold;
+    }
+
+    .infor_label:after {
+      content: '(*)';
+      color: red;
+      margin-left: 5px;
+    }
+
+    .infor_input {
+      border: none;
+      padding: 6px 0px;
+      border-bottom: 1px solid gray !important;
+      outline: none;
+
+      &:focus {
+        background-color: rgb(240, 240, 240);
+      }
+    }
+
+    input[type='date'] {
+      border: none;
+    }
+  }
+}
+
+.thongtingiave {
+  border-top: 1px solid gray;
+  background-color: rgb(249, 245, 245);
+  padding: 10px 10px 40px;
+  margin-top: 10px;
+}

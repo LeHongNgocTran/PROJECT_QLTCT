@@ -1,0 +1,67 @@
+.wrapper {
+  background-image: url('../../../assets/images/backgroundlogin.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  font-size: 0.9rem;
+
+  padding-bottom: 50px;
+}
+.container {
+  background-color: rgb(255, 255, 255);
+  border-radius: 5px;
+  width: 65%;
+  display: block;
+  padding: 40px 30px 20px;
+  margin-bottom: 100px;
+  position: relative;
+  top: 40px;
+}
+
+.breadcrumb {
+  font-weight: 600;
+  margin-top: 20px;
+}
+
+.hanhkhach table tbody tr td:first-child {
+  font-weight: bold;
+}
+.container_modal {
+  font-size: 0.9rem;
+  width: 100%;
+  .input {
+    margin: 15px 0px;
+    p {
+      width: 40%;
+      font-weight: bold;
+      margin-top: 20px;
+    }
+    input {
+      width: 100%;
+    }
+  }
+}
+.file_upload {
+  height: 200px;
+  width: 200px;
+  margin: 40px auto;
+  border: 1px solid #f0c0d0;
+  border-radius: 100px;
+  overflow: hidden;
+  position: relative;
+}
+.file_upload input {
+  position: absolute;
+  height: 400px;
+  width: 400px;
+  left: -200px;
+  top: -200px;
+  background: transparent;
+  opacity: 0;
+  -ms-filter: 'progid:DXImageTransform.Microsoft.Alpha(Opacity=0)';
+  filter: alpha(opacity=0);
+}
+.file_upload img {
+  height: 100%;
+  width: 100%;
+}

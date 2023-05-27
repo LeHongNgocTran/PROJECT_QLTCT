@@ -1,0 +1,20 @@
+@import 'normalize.css';
+
+body {
+  margin: 0;
+  font-size: 62.5%;
+  font-family: 'Roboto', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+p {
+  margin-bottom: 0px;
+  font-size: 0.9rem;
+}
+ul,
+li {
+  list-style: none;
+}

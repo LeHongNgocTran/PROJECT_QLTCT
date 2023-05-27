@@ -1,0 +1,30 @@
+.wrapper {
+  background-image: url('../../../../assets/images/backgroundlogin.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  font-size: 0.9rem;
+
+  padding-bottom: 50px;
+}
+.container {
+  background-color: rgb(249, 249, 249);
+  border-radius: 5px;
+  width: 65%;
+  display: block;
+  padding: 40px 30px 20px;
+  margin-bottom: 100px;
+  position: relative;
+  top: 40px;
+  margin: 0px auto;
+}
+
+.modal table tbody tr td:first-child {
+  font-weight: bold;
+}
+
+.thongtindatve {
+  tr td:nth-child(2) {
+    padding-left: 20px;
+  }
+}

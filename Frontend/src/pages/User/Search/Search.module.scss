@@ -1,0 +1,202 @@
+.wrapper {
+  background-image: url('../../../assets/images/backgroundlogin.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  padding-bottom: 50px;
+}
+.wrapperAdmin {
+  width: 100%;
+}
+
+.searchAdmin {
+  background-color: rgb(255, 255, 255);
+  border-radius: 5px;
+  width: 95%;
+  display: block;
+  padding: 40px 30px 20px;
+  margin-bottom: 100px;
+  position: relative;
+  top: 40px;
+  .loaive,
+  .loaiveActive {
+    cursor: pointer;
+    color: black;
+    font-weight: bold;
+    border-radius: 4px;
+    padding: 5px 20px;
+    font-size: 0.9rem;
+    margin-right: 20px;
+  }
+
+  .loaive {
+    background-color: #a6bcf0;
+  }
+
+  .loaiveActive {
+    background-color: rgb(235, 235, 235);
+  }
+
+  select,
+  option {
+    text-transform: uppercase;
+  }
+
+  select {
+    font-size: 0.8rem;
+    height: 30px;
+    width: 200px;
+    outline: none;
+    overflow-y: auto;
+    border: none;
+    border-bottom: 1px solid rgb(216, 216, 216);
+  }
+
+  option {
+    width: 50px;
+    padding: 30px;
+    overflow-y: scroll;
+  }
+}
+
+.searchbar {
+  display: flex;
+  flex-direction: row;
+
+  .soluong,
+  .dateTime {
+    margin-left: 20px;
+    width: 18%;
+    padding-top: 27px;
+    input {
+      height: 100%;
+      text-transform: uppercase;
+      font-size: 0.8rem;
+      width: 100%;
+      border: none;
+      outline: none;
+      border-bottom: 1px solid rgb(216, 216, 216);
+    }
+  }
+
+  .date {
+    width: 18%;
+    margin-left: 20px;
+  }
+
+  button {
+    font-size: 0.9rem;
+    margin-left: 30px;
+    text-align: center;
+    border: none;
+    font-weight: bold;
+    padding: 5px 30px;
+    background-color: #a6bcf0;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+}
+
+.search {
+  background-color: rgb(255, 255, 255);
+  border-radius: 5px;
+  width: 80%;
+  display: block;
+  padding: 40px 30px 20px;
+  margin-bottom: 100px;
+  position: relative;
+  top: 40px;
+  .loaive,
+  .loaiveActive {
+    cursor: pointer;
+    color: black;
+    font-weight: bold;
+    border-radius: 4px;
+    padding: 5px 20px;
+    font-size: 0.9rem;
+    margin-right: 20px;
+  }
+
+  .loaive {
+    background-color: #a6bcf0;
+  }
+
+  .loaiveActive {
+    background-color: rgb(235, 235, 235);
+  }
+
+  select,
+  option {
+    text-transform: uppercase;
+  }
+
+  select {
+    font-size: 0.8rem;
+    height: 30px;
+    width: 200px;
+    outline: none;
+    overflow-y: auto;
+    border: none;
+    border-bottom: 1px solid rgb(216, 216, 216);
+  }
+
+  option {
+    width: 50px;
+    padding: 30px;
+    overflow-y: scroll;
+  }
+}
+
+.searchbar {
+  display: flex;
+  flex-direction: row;
+
+  .soluong,
+  .dateTime {
+    margin-left: 20px;
+    width: 18%;
+    padding-top: 27px;
+    input {
+      height: 100%;
+      text-transform: uppercase;
+      font-size: 0.8rem;
+      width: 100%;
+      border: none;
+      outline: none;
+      border-bottom: 1px solid rgb(216, 216, 216);
+    }
+  }
+
+  .date {
+    width: 18%;
+    margin-left: 20px;
+  }
+
+  button {
+    font-size: 0.9rem;
+    margin-left: 30px;
+    text-align: center;
+    border: none;
+    font-weight: bold;
+    padding: 5px 30px;
+    background-color: #a6bcf0;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+}
+.resultSearch {
+  width: 80%;
+}
+.resultSearch,
+.resultSearchAdmin {
+  position: relative;
+  background-color: rgb(255, 255, 255);
+  border-radius: 5px;
+  padding: 20px 30px;
+  font-size: 0.9rem;
+}
+
+.resultSearchAdmin {
+  width: 95%;
+  margin-bottom: 40px;
+}

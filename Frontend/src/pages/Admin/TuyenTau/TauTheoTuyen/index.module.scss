@@ -1,0 +1,35 @@
+.wrapper {
+  font-size: 0.9rem;
+}
+
+.form {
+  display: flex;
+  flex-direction: row;
+  p {
+    width: 25%;
+    margin-top: 5px;
+    margin-right: 10px;
+  }
+  input,
+  select {
+    width: 70%;
+    border: none;
+    border: 1px solid rgb(215, 215, 215);
+    outline: none;
+    border-radius: 5px;
+    padding-left: 10px;
+    height: 35px;
+    &:focus {
+      background-color: #ebebeb;
+    }
+  }
+}
+
+.trangthaitrue {
+  color: #379237;
+  padding: 0;
+}
+.trangthaifalse {
+  color: #f90716;
+  padding: 0;
+}

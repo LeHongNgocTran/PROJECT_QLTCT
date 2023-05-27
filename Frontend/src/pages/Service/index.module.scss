@@ -1,0 +1,104 @@
+.wrapper {
+  margin-bottom: 100px;
+}
+
+.backdrop {
+  display: block;
+  img {
+    height: 450px;
+    width: 100%;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+  }
+}
+// cột hình
+.infor_logo {
+  margin-bottom: 100px;
+}
+//cột thông tin
+.infor {
+  margin-bottom: 50px;
+}
+.breadcrumb {
+  width: 100%;
+  font-weight: 600;
+  font-size: 0.9rem;
+  margin-top: 20px;
+}
+
+.nav {
+  a {
+    color: black;
+    font-size: 0.8rem;
+    margin-right: 20px;
+  }
+  padding: 0px 0px 10px;
+  margin-bottom: 20px;
+  border-bottom: 1px solid;
+}
+
+.table {
+  font-size: 0.8rem;
+  border: 1px solid #f3b41e;
+  ul,
+  li {
+    list-style-type: disc;
+  }
+
+  tr td:first-child {
+    width: 25%;
+    padding-left: 25px;
+  }
+  tr td:nth-child(2) {
+    width: 36.5%;
+  }
+  tr td:nth-child(3) {
+    width: 36.5%;
+    background-color: rgb(241, 240, 240);
+  }
+}
+
+// hàng 1
+.tuyenduong {
+  .station {
+    font-size: 0.6rem;
+    font-weight: bolder;
+  }
+  .icon {
+    display: inline-block;
+    width: 20%;
+    margin: auto;
+    font-size: 1rem;
+  }
+}
+
+//hàng 2
+.phuongtien,
+.phuongtien1 {
+  color: white;
+  padding: 5px;
+  background-color: #f3b41e;
+  font-size: 0.8rem;
+  border-radius: 5px;
+  font-weight: bold;
+  text-align: center;
+  width: 90px;
+  margin: 0 35px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.phuongtien1 {
+  background-color: white;
+  border: 1px solid #f3b41e;
+  color: black;
+}
+
+@media only screen and (max-width: 900px) {
+  .wrapper {
+    .container .infor_logo {
+      display: none !important;
+      margin-bottom: 100px;
+    }
+  }
+}

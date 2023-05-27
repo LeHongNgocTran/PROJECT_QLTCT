@@ -1,0 +1,26 @@
+.wrapper {
+  font-size: 0.9rem;
+  .trangthaitrue {
+    background-color: #a9eca2;
+    font-size: 0.7rem;
+    color: #379237;
+  }
+  .loading {
+    height: 300px;
+    position: relative;
+    top: 30%;
+  }
+  .trangthaifalse {
+    background-color: #ff8787;
+    font-size: 0.7rem;
+    color: #f90716;
+  }
+  .thongtintau {
+    padding: 20px;
+  }
+  .thongtin {
+    tbody tr td:first-child {
+      font-weight: bold;
+    }
+  }
+}

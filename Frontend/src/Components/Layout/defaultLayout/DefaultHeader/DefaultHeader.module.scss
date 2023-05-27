@@ -1,0 +1,96 @@
+.wrapper {
+  margin: 0;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  height: 130px;
+}
+
+.logo_header {
+  width: 25%;
+  background-color: #f2f2f2;
+  padding: 15px 0px;
+  a {
+    display: flex;
+    justify-content: center;
+
+    img {
+      max-width: 132px;
+      max-height: 100.2px;
+    }
+  }
+
+  .logo_holder {
+    display: block;
+    height: 130px;
+    width: 125px;
+    background: url('https://superdong.com.vn/wp-content/themes/supperdong/img/logo-holder.svg')
+      no-repeat bottom left;
+    background-size: 100%;
+    position: absolute;
+    left: 300px;
+    top: 0px;
+    z-index: 1;
+    background-color: #2e3192;
+  }
+}
+
+.container {
+  background-color: #2e3192;
+  width: 75%;
+  padding: 30px;
+}
+
+.top_nav {
+  margin-bottom: 25px;
+}
+
+.top_nav,
+.bottom_nav {
+  margin-left: 15px;
+  padding: 4px 8px;
+  a {
+    color: white;
+    padding: 8px 16px;
+  }
+  a:hover {
+    color: yellow;
+  }
+
+  font-size: 0.8rem;
+}
+
+.bottom_nav {
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  font-weight: bold;
+  // margin-top: 30px;
+}
+
+.hotlink {
+  .hethongbanve:hover {
+    color: yellow;
+  }
+
+  .hethongbanve {
+    font-size: 0.9rem;
+    color: white;
+    padding: 4px 8px;
+    border-radius: 10px;
+    border: 2px solid;
+    cursor: pointer;
+  }
+
+  .language {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    img {
+      display: block;
+      width: 20px;
+      margin-left: 20px;
+      margin-top: 15px;
+      cursor: pointer;
+    }
+  }
+}

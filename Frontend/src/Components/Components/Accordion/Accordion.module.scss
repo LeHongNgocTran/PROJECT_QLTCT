@@ -1,0 +1,32 @@
+.accordion {
+  margin-bottom: 40px;
+}
+
+.accordion_item {
+  background-color: #2e3192;
+  color: white;
+  cursor: pointer;
+  padding: 10px;
+  width: 100%;
+  text-align: left;
+  border: 1px solid;
+  outline: none;
+  transition: 0.4s;
+}
+
+.accordion_title {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 0.8rem;
+  text-align: center;
+}
+
+.accordion_content {
+  background-color: #2e3192;
+  font-size: 0.8rem;
+  overflow: hidden;
+  padding: 10px 3px;
+  p {
+    margin-bottom: 0px;
+  }
+}

@@ -1,0 +1,110 @@
+.wrapper {
+  width: 100%;
+  height: auto;
+  background-color: #2e3192;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0px;
+  z-index: 100;
+}
+
+.top_header {
+  padding: 6px 0;
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  font-size: 0.8rem;
+  background-color: #2e3192;
+  button {
+    &:hover {
+      color: yellow;
+    }
+  }
+  .phone {
+    display: flex;
+    flex-direction: row;
+    flex-grow: 1;
+    justify-content: flex-start;
+
+    p {
+      font-size: 0.9rem;
+      font-weight: bold;
+    }
+  }
+
+  a {
+    color: white;
+    font-weight: bold;
+    padding: 0 10px;
+
+    &:hover {
+      color: gray;
+    }
+  }
+
+  .language {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    img {
+      display: block;
+      width: 25px;
+      margin: 0px 10px;
+      cursor: pointer;
+    }
+  }
+}
+
+.wrapper1 {
+  background-color: rgb(233, 233, 233);
+  margin: 0;
+}
+.header {
+  background-color: rgb(233, 233, 233);
+  height: auto;
+
+  a {
+    margin: 10px 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  img {
+    height: auto;
+    width: 108px;
+    margin: auto;
+  }
+
+  .nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-self: flex-end;
+
+    a {
+      border-radius: 10px;
+      color: white;
+      background-color: #2e3192;
+      font-weight: bold;
+      padding: 6px 15px;
+      font-size: 0.9rem;
+      margin-right: 24px;
+
+      &:hover {
+        color: yellow;
+        background-color: rgb(6, 6, 59);
+      }
+    }
+  }
+}
+
+.infor {
+  display: flex;
+  flex-direction: row;
+  color: white;
+  button {
+    &:hover {
+      color: yellow;
+    }
+  }
+}

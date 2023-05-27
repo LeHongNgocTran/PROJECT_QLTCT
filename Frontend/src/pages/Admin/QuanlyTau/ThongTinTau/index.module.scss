@@ -1,0 +1,36 @@
+.wrapper {
+  font-size: 0.9rem;
+}
+.thongtintau {
+  padding: 20px;
+}
+.thongtin {
+  tbody tr td:first-child {
+    font-weight: bold;
+  }
+}
+
+.search {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  input[type='date'] {
+    height: 40px;
+    padding: 10px;
+    outline: none;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+}
+
+.trangthaitrue {
+  background-color: #a9eca2;
+  font-size: 0.7rem;
+  color: #379237;
+}
+.trangthaifalse {
+  background-color: #ff8787;
+  font-size: 0.7rem;
+  color: #f90716;
+}

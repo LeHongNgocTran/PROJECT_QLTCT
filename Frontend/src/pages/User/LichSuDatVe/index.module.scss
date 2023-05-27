@@ -1,0 +1,28 @@
+.wrapper {
+  background-image: url('../../../assets/images/backgroundlogin.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  font-size: 0.9rem;
+
+  padding-bottom: 50px;
+}
+.container {
+  background-color: rgb(255, 255, 255);
+  border-radius: 5px;
+  width: 65%;
+  display: block;
+  padding: 40px 30px 20px;
+  margin-bottom: 100px;
+  position: relative;
+  top: 40px;
+}
+
+.breadcrumb {
+  font-weight: 600;
+  margin-top: 20px;
+}
+
+.hanhkhach table tbody tr td:first-child {
+  font-weight: bold;
+}

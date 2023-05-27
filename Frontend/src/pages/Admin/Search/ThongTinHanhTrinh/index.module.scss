@@ -1,0 +1,46 @@
+.wrapper {
+  font-size: 0.9rem;
+  margin-top: 10px;
+}
+
+.hanhtrinh {
+  width: 100%;
+  display: block;
+}
+
+.dieukhoan {
+  background-color: rgb(244, 244, 244);
+  height: 300px;
+  overflow-y: scroll;
+
+  &::-webkit-scrollbar {
+    width: 10px;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    border-radius: 25px;
+    height: 200px;
+    background-color: rgb(179, 178, 178);
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .hanhtrinh {
+    overflow-x: scroll;
+
+    &::-webkit-scrollbar {
+      height: 8px;
+    }
+    &::-webkit-scrollbar-thumb {
+      border-radius: 25px;
+      background-color: rgb(179, 178, 178);
+    }
+  }
+}
+
+.button {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  z-index: 1000;
+}

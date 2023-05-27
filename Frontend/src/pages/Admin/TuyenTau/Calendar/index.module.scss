@@ -1,0 +1,29 @@
+.wrapper {
+  font-size: 0.9rem;
+}
+.events {
+  overflow-y: scroll;
+  height: 78vh;
+}
+
+.first__row {
+  position: sticky;
+  top: 0;
+}
+
+.location {
+  display: flex;
+  flex-direction: row;
+
+  label {
+    font-weight: bold;
+  }
+
+  input[type='radio'] {
+    margin-top: -10px;
+    margin-right: 20px;
+  }
+  select {
+    height: 30px;
+  }
+}
