@@ -1,12 +1,135 @@
-[
-   {
-    "mataikhoan": "admin",
-    "matkhau": "123456",
-    "phanquyen": 1
-   },
-   {
-    "mataikhoan": "user1",
-    "matkhau": "123456",
-    "phanquyen": 0
-   }
-]
+[{
+  "_id": {
+    "$oid": "641f297c4c7f70bf4498aba9"
+  },
+  "taikhoan": {
+    "mataikhoan": "0389006211",
+    "password": "$2b$10$p9poX8CL1PekvwTxaucJyOPsoa/3zuhIL73DsvYTkV6ACjMrHp7hG"
+  },
+  "name": "Lê Hồng Ngọc Trân",
+  "email": "lengoctran080901@gmail.com",
+  "address": "Hậu Giang",
+  "date": "2001-09-08",
+  "sex": "Nữ",
+  "permission": 1,
+  "image": "https://res.cloudinary.com/drxaaisyh/image/upload/v1684001483/User/topb5uc9axdlpmijsrbx.jpg",
+  "trangthai": true,
+  "update_at": {
+    "$date": "2023-07-24T15:24:30.489Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6443fe1ac3b4ac74622dd850"
+  },
+  "taikhoan": {
+    "mataikhoan": "0933012321",
+    "password": "$2b$10$dWcDkUhuivWBnyxnSkKWm.FMnLeMO/gxnwDACFirlBKwTu28Q5Ha6"
+  },
+  "name": "Trịnh Hồng Cẩm",
+  "email": "lengoctran080901@gmail.com",
+  "address": "Hậu Giang",
+  "date": "22/04/1976",
+  "sex": "Nữ",
+  "permission": 4,
+  "create_at": {
+    "$date": "2023-04-22T15:32:42.186Z"
+  },
+  "update_at": {
+    "$date": "2023-07-24T15:24:32.173Z"
+  },
+  "trangthai": true
+},
+{
+  "_id": {
+    "$oid": "6454ca8e2a56bf34406b4c17"
+  },
+  "taikhoan": {
+    "mataikhoan": "0389006215",
+    "password": "$2b$10$yDJK9aX762vl4HLD8pfPWuRSwq4fLCC92q/WMu0glmJwDVhWwHjvq"
+  },
+  "name": "Trịnh Trung Hiền",
+  "email": "ngoctran080901@gmail.com",
+  "address": "Hậu Giang",
+  "date": "05/05/2023",
+  "sex": "Nữ",
+  "permission": 2,
+  "create_at": {
+    "$date": "2023-05-05T09:21:18.682Z"
+  },
+  "update_at": {
+    "$date": "2023-07-24T15:24:29.175Z"
+  },
+  "trangthai": true,
+  "idPhongVe": "PVHCM",
+  "image": "https://res.cloudinary.com/drxaaisyh/image/upload/v1683278479/User/lkt5l3od1esz5k8a8kzh.jpg"
+},
+{
+  "_id": {
+    "$oid": "645671c3683954748aec44b3"
+  },
+  "taikhoan": {
+    "mataikhoan": "0389006214",
+    "password": "$2b$10$j/V286Fu9gfY/KQ1F75h/eZwvt9rPEvRBJvzZIVI4Bjr0yHMaF8PC"
+  },
+  "name": "Lê Hồng Thanh Lam",
+  "email": "thanhlam@gmail.com",
+  "address": "Hậu Giang",
+  "date": "06/05/2008",
+  "sex": "Nữ",
+  "permission": 2,
+  "create_at": {
+    "$date": "2023-05-06T15:26:59.167Z"
+  },
+  "update_at": {
+    "$date": "2023-11-04T05:58:46.824Z"
+  },
+  "trangthai": true,
+  "idPhongVe": "PVND",
+  "image": "https://res.cloudinary.com/drxaaisyh/image/upload/v1683386819/User/adssh5jbo3jtaskz9ssm.jpg"
+},
+{
+  "_id": {
+    "$oid": "645fbcef9ccf9671b30c6972"
+  },
+  "taikhoan": {
+    "mataikhoan": "0389006213",
+    "password": "$2b$10$GCVbkSuVmVVfSXp12.OGDuXsxAgpYEfF6UnBDejhZwSldX1KmUxiK"
+  },
+  "name": "Lê Hồng Ngọc Trân1",
+  "email": "lengoctran080901@gmail.com",
+  "address": "Hậu Giang221",
+  "date": "13/05/2023",
+  "sex": "Nữ",
+  "permission": 2,
+  "create_at": {
+    "$date": "2023-05-13T16:38:07.557Z"
+  },
+  "update_at": {
+    "$date": "2023-05-14T08:57:35.810Z"
+  },
+  "trangthai": true,
+  "idPhongVe": "PVND",
+  "image": "https://res.cloudinary.com/drxaaisyh/image/upload/v1684000278/User/cavrpy7wdpqcyhhqq2zq.jpg"
+},
+{
+  "_id": {
+    "$oid": "64be95a54175a243c28e4c12"
+  },
+  "taikhoan": {
+    "mataikhoan": "0911099025",
+    "password": "$2b$10$8jOAuq40Nr8g7NLKLbA4Ber9V3YcIrLEc6FvgtzkmLm9XbZ4SqI72"
+  },
+  "name": "Lê",
+  "email": "minh@gmail.com",
+  "address": "123123",
+  "date": "2023-07-26",
+  "sex": "Nữ",
+  "permission": 0,
+  "image": "",
+  "create_at": {
+    "$date": "2023-07-24T15:15:49.018Z"
+  },
+  "update_at": "",
+  "trangthai": true
+}]

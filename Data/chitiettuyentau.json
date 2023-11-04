@@ -1,9 +1,889 @@
-[
-    {
-        "matuyentau":"",
-        "tuyentau":"",
-        "ghedamua":[],
-        "thoigiankhoihanh":"",
-        "tinhtrangve":""
-    }
-]
+[{
+  "_id": {
+    "$oid": "6460e7515c8af1773c2b4a6a"
+  },
+  "loaichuyen": "Xuất phát",
+  "matau": "SUPERDONG II",
+  "matuyentau": "MTTHTND1",
+  "day": "05/15/2023",
+  "timeStart": "9:00 AM",
+  "timeEnd": "8:51 PM",
+  "title": "2023-05-15T09:00:00+07:00",
+  "dayEnd": "2023-05-15T09:30:00+07:00",
+  "trangthaitau": true,
+  "chitietghengoi": {
+    "soluongghe": "150",
+    "soghebanduoc": [
+      "V5B",
+      "V3C",
+      "V4E",
+      "V6B",
+      "V5F",
+      "V5A",
+      "1A"
+    ],
+    "tinhtrangghe": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6460e7535c8af1773c2b4a6b"
+  },
+  "loaichuyen": "Xuất phát",
+  "matau": "SUPERDONG II",
+  "matuyentau": "MTTHTND1",
+  "day": "05/17/2023",
+  "timeStart": "9:30 AM",
+  "timeEnd": "8:51 PM",
+  "title": "2023-05-17T09:30:00+07:00",
+  "dayEnd": "2023-05-17T10:00:00+07:00",
+  "trangthaitau": true,
+  "chitietghengoi": {
+    "soluongghe": "150",
+    "soghebanduoc": [],
+    "tinhtrangghe": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6460f2185c8af1773c2b4a6c"
+  },
+  "loaichuyen": "Xuất phát",
+  "matau": "SUPERDONG I",
+  "matuyentau": "MTTRGLS2",
+  "day": "05/07/2023",
+  "timeStart": "7:30 AM",
+  "timeEnd": "9:37 PM",
+  "title": "2023-05-07T07:30:00+07:00",
+  "dayEnd": "2023-05-07T08:00:00+07:00",
+  "trangthaitau": true,
+  "chitietghengoi": {
+    "soluongghe": "150",
+    "soghebanduoc": [],
+    "tinhtrangghe": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6460f2195c8af1773c2b4a6d"
+  },
+  "loaichuyen": "Xuất phát",
+  "matau": "SUPERDONG I",
+  "matuyentau": "MTTRGLS2",
+  "day": "05/08/2023",
+  "timeStart": "7:30 AM",
+  "timeEnd": "9:37 PM",
+  "title": "2023-05-08T07:30:00+07:00",
+  "dayEnd": "2023-05-08T08:00:00+07:00",
+  "trangthaitau": true,
+  "chitietghengoi": {
+    "soluongghe": "150",
+    "soghebanduoc": [],
+    "tinhtrangghe": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6460f21b5c8af1773c2b4a6e"
+  },
+  "loaichuyen": "Xuất phát",
+  "matau": "SUPERDONG I",
+  "matuyentau": "MTTRGLS2",
+  "day": "05/09/2023",
+  "timeStart": "7:30 AM",
+  "timeEnd": "9:37 PM",
+  "title": "2023-05-09T07:30:00+07:00",
+  "dayEnd": "2023-05-09T08:00:00+07:00",
+  "trangthaitau": true,
+  "chitietghengoi": {
+    "soluongghe": "150",
+    "soghebanduoc": [],
+    "tinhtrangghe": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6460f21c5c8af1773c2b4a6f"
+  },
+  "loaichuyen": "Xuất phát",
+  "matau": "SUPERDONG I",
+  "matuyentau": "MTTRGLS2",
+  "day": "05/10/2023",
+  "timeStart": "7:30 AM",
+  "timeEnd": "9:37 PM",
+  "title": "2023-05-10T07:30:00+07:00",
+  "dayEnd": "2023-05-10T08:00:00+07:00",
+  "trangthaitau": true,
+  "chitietghengoi": {
+    "soluongghe": "150",
+    "soghebanduoc": [],
+    "tinhtrangghe": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6460f21f5c8af1773c2b4a70"
+  },
+  "loaichuyen": "Xuất phát",
+  "matau": "SUPERDONG I",
+  "matuyentau": "MTTRGLS2",
+  "day": "05/11/2023",
+  "timeStart": "8:30 AM",
+  "timeEnd": "9:37 PM",
+  "title": "2023-05-11T08:30:00+07:00",
+  "dayEnd": "2023-05-11T09:00:00+07:00",
+  "trangthaitau": true,
+  "chitietghengoi": {
+    "soluongghe": "150",
+    "soghebanduoc": [],
+    "tinhtrangghe": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6460f2205c8af1773c2b4a71"
+  },
+  "loaichuyen": "Xuất phát",
+  "matau": "SUPERDONG I",
+  "matuyentau": "MTTRGLS2",
+  "day": "05/09/2023",
+  "timeStart": "10:00 AM",
+  "timeEnd": "9:37 PM",
+  "title": "2023-05-09T10:00:00+07:00",
+  "dayEnd": "2023-05-09T10:30:00+07:00",
+  "trangthaitau": true,
+  "chitietghengoi": {
+    "soluongghe": "150",
+    "soghebanduoc": [],
+    "tinhtrangghe": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6460f2225c8af1773c2b4a72"
+  },
+  "loaichuyen": "Xuất phát",
+  "matau": "SUPERDONG I",
+  "matuyentau": "MTTRGLS2",
+  "day": "05/12/2023",
+  "timeStart": "12:00 PM",
+  "timeEnd": "9:37 PM",
+  "title": "2023-05-12T12:00:00+07:00",
+  "dayEnd": "2023-05-12T12:30:00+07:00",
+  "trangthaitau": true,
+  "chitietghengoi": {
+    "soluongghe": "150",
+    "soghebanduoc": [],
+    "tinhtrangghe": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "64619d8711a1afcff4c0dd33"
+  },
+  "loaichuyen": "Xuất phát",
+  "matau": "SUPERDONG II",
+  "matuyentau": "MTTHTND1",
+  "day": "05/21/2023",
+  "timeStart": "8:30 AM",
+  "timeEnd": "9:48 AM",
+  "title": "2023-05-21T08:30:00+07:00",
+  "dayEnd": "2023-05-21T09:00:00+07:00",
+  "trangthaitau": true,
+  "chitietghengoi": {
+    "soluongghe": "150",
+    "soghebanduoc": [],
+    "tinhtrangghe": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "64619d8c11a1afcff4c0dd34"
+  },
+  "loaichuyen": "Xuất phát",
+  "matau": "SUPERDONG II",
+  "matuyentau": "MTTHTND1",
+  "day": "05/22/2023",
+  "timeStart": "8:30 AM",
+  "timeEnd": "9:48 AM",
+  "title": "2023-05-22T08:30:00+07:00",
+  "dayEnd": "2023-05-22T09:00:00+07:00",
+  "trangthaitau": true,
+  "chitietghengoi": {
+    "soluongghe": "150",
+    "soghebanduoc": [],
+    "tinhtrangghe": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "64619d9111a1afcff4c0dd35"
+  },
+  "loaichuyen": "Xuất phát",
+  "matau": "SUPERDONG II",
+  "matuyentau": "MTTHTND1",
+  "day": "05/23/2023",
+  "timeStart": "8:30 AM",
+  "timeEnd": "9:48 AM",
+  "title": "2023-05-23T08:30:00+07:00",
+  "dayEnd": "2023-05-23T09:00:00+07:00",
+  "trangthaitau": true,
+  "chitietghengoi": {
+    "soluongghe": "150",
+    "soghebanduoc": [],
+    "tinhtrangghe": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "64619d9411a1afcff4c0dd36"
+  },
+  "loaichuyen": "Xuất phát",
+  "matau": "SUPERDONG II",
+  "matuyentau": "MTTHTND1",
+  "day": "05/24/2023",
+  "timeStart": "8:30 AM",
+  "timeEnd": "9:48 AM",
+  "title": "2023-05-24T08:30:00+07:00",
+  "dayEnd": "2023-05-24T09:00:00+07:00",
+  "trangthaitau": true,
+  "chitietghengoi": {
+    "soluongghe": "150",
+    "soghebanduoc": [],
+    "tinhtrangghe": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "64619d9811a1afcff4c0dd37"
+  },
+  "loaichuyen": "Xuất phát",
+  "matau": "SUPERDONG II",
+  "matuyentau": "MTTHTND1",
+  "day": "05/25/2023",
+  "timeStart": "8:30 AM",
+  "timeEnd": "9:48 AM",
+  "title": "2023-05-25T08:30:00+07:00",
+  "dayEnd": "2023-05-25T09:00:00+07:00",
+  "trangthaitau": true,
+  "chitietghengoi": {
+    "soluongghe": "150",
+    "soghebanduoc": [],
+    "tinhtrangghe": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "64619d9e11a1afcff4c0dd38"
+  },
+  "loaichuyen": "Xuất phát",
+  "matau": "SUPERDONG II",
+  "matuyentau": "MTTHTND1",
+  "day": "05/16/2023",
+  "timeStart": "7:30 AM",
+  "timeEnd": "9:49 AM",
+  "title": "2023-05-16T07:30:00+07:00",
+  "dayEnd": "2023-05-16T08:00:00+07:00",
+  "trangthaitau": true,
+  "chitietghengoi": {
+    "soluongghe": "150",
+    "soghebanduoc": [],
+    "tinhtrangghe": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "64619da211a1afcff4c0dd39"
+  },
+  "loaichuyen": "Xuất phát",
+  "matau": "SUPERDONG II",
+  "matuyentau": "MTTHTND1",
+  "day": "05/17/2023",
+  "timeStart": "7:30 AM",
+  "timeEnd": "9:49 AM",
+  "title": "2023-05-17T07:30:00+07:00",
+  "dayEnd": "2023-05-17T08:00:00+07:00",
+  "trangthaitau": true,
+  "chitietghengoi": {
+    "soluongghe": "150",
+    "soghebanduoc": [],
+    "tinhtrangghe": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "64619da611a1afcff4c0dd3a"
+  },
+  "loaichuyen": "Trở về",
+  "matau": "SUPERDONG II",
+  "matuyentau": "MTTHTND1",
+  "day": "05/16/2023",
+  "timeStart": "11:30 AM",
+  "timeEnd": "9:49 AM",
+  "title": "2023-05-16T11:30:00+07:00",
+  "dayEnd": "2023-05-16T12:00:00+07:00",
+  "trangthaitau": true,
+  "chitietghengoi": {
+    "soluongghe": "150",
+    "soghebanduoc": [],
+    "tinhtrangghe": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "64619daa11a1afcff4c0dd3b"
+  },
+  "loaichuyen": "Trở về",
+  "matau": "SUPERDONG II",
+  "matuyentau": "MTTHTND1",
+  "day": "05/17/2023",
+  "timeStart": "11:30 AM",
+  "timeEnd": "9:49 AM",
+  "title": "2023-05-17T11:30:00+07:00",
+  "dayEnd": "2023-05-17T12:00:00+07:00",
+  "trangthaitau": true,
+  "chitietghengoi": {
+    "soluongghe": "150",
+    "soghebanduoc": [],
+    "tinhtrangghe": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "64619daf11a1afcff4c0dd3c"
+  },
+  "loaichuyen": "Xuất phát",
+  "matau": "SUPERDONG II",
+  "matuyentau": "MTTHTND1",
+  "day": "05/18/2023",
+  "timeStart": "7:30 AM",
+  "timeEnd": "9:49 AM",
+  "title": "2023-05-18T07:30:00+07:00",
+  "dayEnd": "2023-05-18T08:00:00+07:00",
+  "trangthaitau": true,
+  "chitietghengoi": {
+    "soluongghe": "150",
+    "soghebanduoc": [
+      "V2A",
+      "V2B"
+    ],
+    "tinhtrangghe": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "64619dba11a1afcff4c0dd3f"
+  },
+  "loaichuyen": "Xuất phát",
+  "matau": "SUPERDONG II",
+  "matuyentau": "MTTHTND1",
+  "day": "05/19/2023",
+  "timeStart": "8:00 AM",
+  "timeEnd": "9:49 AM",
+  "title": "2023-05-19T08:00:00+07:00",
+  "dayEnd": "2023-05-19T08:30:00+07:00",
+  "trangthaitau": true,
+  "chitietghengoi": {
+    "soluongghe": "150",
+    "soghebanduoc": [],
+    "tinhtrangghe": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "64619dca11a1afcff4c0dd40"
+  },
+  "loaichuyen": "Trở về",
+  "matau": "SUPERDONG II",
+  "matuyentau": "MTTHTND1",
+  "day": "05/18/2023",
+  "timeStart": "11:30 AM",
+  "timeEnd": "9:49 AM",
+  "title": "2023-05-18T11:30:00+07:00",
+  "dayEnd": "2023-05-18T12:00:00+07:00",
+  "trangthaitau": true,
+  "chitietghengoi": {
+    "soluongghe": "150",
+    "soghebanduoc": [],
+    "tinhtrangghe": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "64619dcd11a1afcff4c0dd41"
+  },
+  "loaichuyen": "Trở về",
+  "matau": "SUPERDONG II",
+  "matuyentau": "MTTHTND1",
+  "day": "05/19/2023",
+  "timeStart": "11:00 AM",
+  "timeEnd": "9:49 AM",
+  "title": "2023-05-19T11:00:00+07:00",
+  "dayEnd": "2023-05-19T11:30:00+07:00",
+  "trangthaitau": true,
+  "chitietghengoi": {
+    "soluongghe": "150",
+    "soghebanduoc": [],
+    "tinhtrangghe": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "64619dd211a1afcff4c0dd42"
+  },
+  "loaichuyen": "Trở về",
+  "matau": "SUPERDONG II",
+  "matuyentau": "MTTHTND1",
+  "day": "05/20/2023",
+  "timeStart": "11:30 AM",
+  "timeEnd": "9:49 AM",
+  "title": "2023-05-20T11:30:00+07:00",
+  "dayEnd": "2023-05-20T12:00:00+07:00",
+  "trangthaitau": true,
+  "chitietghengoi": {
+    "soluongghe": "150",
+    "soghebanduoc": [],
+    "tinhtrangghe": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "64619dd511a1afcff4c0dd43"
+  },
+  "loaichuyen": "Xuất phát",
+  "matau": "SUPERDONG II",
+  "matuyentau": "MTTHTND1",
+  "day": "05/20/2023",
+  "timeStart": "7:30 AM",
+  "timeEnd": "9:49 AM",
+  "title": "2023-05-20T07:30:00+07:00",
+  "dayEnd": "2023-05-20T08:00:00+07:00",
+  "trangthaitau": true,
+  "chitietghengoi": {
+    "soluongghe": "150",
+    "soghebanduoc": [],
+    "tinhtrangghe": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6461e1f9651955cbe947d92b"
+  },
+  "loaichuyen": "Xuất phát",
+  "matau": "SUPERDONG I",
+  "matuyentau": "MTTHTND1",
+  "day": "05/16/2023",
+  "timeStart": "6:00 AM",
+  "timeEnd": "2:40 PM",
+  "title": "2023-05-16T06:00:00+07:00",
+  "dayEnd": "2023-05-16T06:30:00+07:00",
+  "trangthaitau": true,
+  "chitietghengoi": {
+    "soluongghe": "150",
+    "soghebanduoc": [],
+    "tinhtrangghe": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6461e1fe651955cbe947d92c"
+  },
+  "loaichuyen": "Trở về",
+  "matau": "SUPERDONG I",
+  "matuyentau": "MTTHTND1",
+  "day": "05/16/2023",
+  "timeStart": "11:00 AM",
+  "timeEnd": "2:40 PM",
+  "title": "2023-05-16T11:00:00+07:00",
+  "dayEnd": "2023-05-16T11:30:00+07:00",
+  "trangthaitau": true,
+  "chitietghengoi": {
+    "soluongghe": "150",
+    "soghebanduoc": [],
+    "tinhtrangghe": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6461e201651955cbe947d92d"
+  },
+  "loaichuyen": "Xuất phát",
+  "matau": "SUPERDONG I",
+  "matuyentau": "MTTHTND1",
+  "day": "05/17/2023",
+  "timeStart": "6:00 AM",
+  "timeEnd": "2:40 PM",
+  "title": "2023-05-17T06:00:00+07:00",
+  "dayEnd": "2023-05-17T06:30:00+07:00",
+  "trangthaitau": true,
+  "chitietghengoi": {
+    "soluongghe": "150",
+    "soghebanduoc": [],
+    "tinhtrangghe": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "64be91f94175a243c28e4c04"
+  },
+  "loaichuyen": "Xuất phát",
+  "matau": "SUPERDONG I",
+  "matuyentau": "MTTHTND1",
+  "day": "07/24/2023",
+  "timeStart": "1:00 AM",
+  "timeEnd": "10:00 PM",
+  "title": "2023-07-24T01:00:00+07:00",
+  "dayEnd": "2023-07-24T02:00:00+07:00",
+  "trangthaitau": true,
+  "chitietghengoi": {
+    "soluongghe": "150",
+    "soghebanduoc": [],
+    "tinhtrangghe": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "64be92074175a243c28e4c05"
+  },
+  "loaichuyen": "Trở về",
+  "matau": "SUPERDONG I",
+  "matuyentau": "MTTHTND1",
+  "day": "07/24/2023",
+  "timeStart": "4:30 AM",
+  "timeEnd": "10:00 PM",
+  "title": "2023-07-24T04:30:00+07:00",
+  "dayEnd": "2023-07-24T05:30:00+07:00",
+  "trangthaitau": true,
+  "chitietghengoi": {
+    "soluongghe": "150",
+    "soghebanduoc": [],
+    "tinhtrangghe": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "64be920b4175a243c28e4c06"
+  },
+  "loaichuyen": "Xuất phát",
+  "matau": "SUPERDONG I",
+  "matuyentau": "MTTHTND1",
+  "day": "07/25/2023",
+  "timeStart": "1:00 AM",
+  "timeEnd": "10:00 PM",
+  "title": "2023-07-25T01:00:00+07:00",
+  "dayEnd": "2023-07-25T02:00:00+07:00",
+  "trangthaitau": true,
+  "chitietghengoi": {
+    "soluongghe": "150",
+    "soghebanduoc": [
+      "4A",
+      "4B",
+      "4C"
+    ],
+    "tinhtrangghe": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "64be920e4175a243c28e4c07"
+  },
+  "loaichuyen": "Xuất phát",
+  "matau": "SUPERDONG I",
+  "matuyentau": "MTTHTND1",
+  "day": "07/26/2023",
+  "timeStart": "1:00 AM",
+  "timeEnd": "10:00 PM",
+  "title": "2023-07-26T01:00:00+07:00",
+  "dayEnd": "2023-07-26T02:00:00+07:00",
+  "trangthaitau": true,
+  "chitietghengoi": {
+    "soluongghe": "150",
+    "soghebanduoc": [],
+    "tinhtrangghe": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "64be92114175a243c28e4c08"
+  },
+  "loaichuyen": "Xuất phát",
+  "matau": "SUPERDONG I",
+  "matuyentau": "MTTHTND1",
+  "day": "07/27/2023",
+  "timeStart": "1:00 AM",
+  "timeEnd": "10:00 PM",
+  "title": "2023-07-27T01:00:00+07:00",
+  "dayEnd": "2023-07-27T02:00:00+07:00",
+  "trangthaitau": true,
+  "chitietghengoi": {
+    "soluongghe": "150",
+    "soghebanduoc": [],
+    "tinhtrangghe": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "64be92144175a243c28e4c09"
+  },
+  "loaichuyen": "Xuất phát",
+  "matau": "SUPERDONG I",
+  "matuyentau": "MTTHTND1",
+  "day": "07/28/2023",
+  "timeStart": "1:00 AM",
+  "timeEnd": "10:00 PM",
+  "title": "2023-07-28T01:00:00+07:00",
+  "dayEnd": "2023-07-28T02:00:00+07:00",
+  "trangthaitau": true,
+  "chitietghengoi": {
+    "soluongghe": "150",
+    "soghebanduoc": [],
+    "tinhtrangghe": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "64be925f4175a243c28e4c0a"
+  },
+  "loaichuyen": "Xuất phát",
+  "matau": "SUPERDONG I",
+  "matuyentau": "MTTHTND1",
+  "day": "07/25/2023",
+  "timeStart": "7:00 AM",
+  "timeEnd": "10:01 PM",
+  "title": "2023-07-25T07:00:00+07:00",
+  "dayEnd": "2023-07-25T08:00:00+07:00",
+  "trangthaitau": true,
+  "chitietghengoi": {
+    "soluongghe": "150",
+    "soghebanduoc": [],
+    "tinhtrangghe": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "64be92624175a243c28e4c0b"
+  },
+  "loaichuyen": "Trở về",
+  "matau": "SUPERDONG I",
+  "matuyentau": "MTTHTND1",
+  "day": "07/26/2023",
+  "timeStart": "7:00 AM",
+  "timeEnd": "10:01 PM",
+  "title": "2023-07-26T07:00:00+07:00",
+  "dayEnd": "2023-07-26T08:00:00+07:00",
+  "trangthaitau": true,
+  "chitietghengoi": {
+    "soluongghe": "150",
+    "soghebanduoc": [],
+    "tinhtrangghe": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "64be92654175a243c28e4c0c"
+  },
+  "loaichuyen": "Trở về",
+  "matau": "SUPERDONG I",
+  "matuyentau": "MTTHTND1",
+  "day": "07/25/2023",
+  "timeStart": "11:00 AM",
+  "timeEnd": "10:01 PM",
+  "title": "2023-07-25T11:00:00+07:00",
+  "dayEnd": "2023-07-25T12:00:00+07:00",
+  "trangthaitau": true,
+  "chitietghengoi": {
+    "soluongghe": "150",
+    "soghebanduoc": [],
+    "tinhtrangghe": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "64be92684175a243c28e4c0d"
+  },
+  "loaichuyen": "Trở về",
+  "matau": "SUPERDONG I",
+  "matuyentau": "MTTHTND1",
+  "day": "07/27/2023",
+  "timeStart": "11:00 AM",
+  "timeEnd": "10:02 PM",
+  "title": "2023-07-27T11:00:00+07:00",
+  "dayEnd": "2023-07-27T12:00:00+07:00",
+  "trangthaitau": true,
+  "chitietghengoi": {
+    "soluongghe": "150",
+    "soghebanduoc": [],
+    "tinhtrangghe": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "64be926a4175a243c28e4c0e"
+  },
+  "loaichuyen": "Trở về",
+  "matau": "SUPERDONG I",
+  "matuyentau": "MTTHTND1",
+  "day": "07/28/2023",
+  "timeStart": "11:00 AM",
+  "timeEnd": "10:02 PM",
+  "title": "2023-07-28T11:00:00+07:00",
+  "dayEnd": "2023-07-28T12:00:00+07:00",
+  "trangthaitau": true,
+  "chitietghengoi": {
+    "soluongghe": "150",
+    "soghebanduoc": [],
+    "tinhtrangghe": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "64be926d4175a243c28e4c0f"
+  },
+  "loaichuyen": "Trở về",
+  "matau": "SUPERDONG I",
+  "matuyentau": "MTTHTND1",
+  "day": "07/29/2023",
+  "timeStart": "11:00 AM",
+  "timeEnd": "10:02 PM",
+  "title": "2023-07-29T11:00:00+07:00",
+  "dayEnd": "2023-07-29T12:00:00+07:00",
+  "trangthaitau": true,
+  "chitietghengoi": {
+    "soluongghe": "150",
+    "soghebanduoc": [],
+    "tinhtrangghe": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6545d901f11c5197de09db46"
+  },
+  "loaichuyen": "Xuất phát",
+  "matau": "SUPERDONG I",
+  "matuyentau": "MTTHTND1",
+  "day": "10/29/2023",
+  "timeStart": "7:00 AM",
+  "timeEnd": "12:39 PM",
+  "title": "2023-10-29T07:00:00+07:00",
+  "dayEnd": "2023-10-29T08:00:00+07:00",
+  "trangthaitau": true,
+  "chitietghengoi": {
+    "soluongghe": "150",
+    "soghebanduoc": [],
+    "tinhtrangghe": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6545d906f11c5197de09db47"
+  },
+  "loaichuyen": "Xuất phát",
+  "matau": "SUPERDONG I",
+  "matuyentau": "MTTHTND1",
+  "day": "10/30/2023",
+  "timeStart": "9:00 AM",
+  "timeEnd": "12:39 PM",
+  "title": "2023-10-30T09:00:00+07:00",
+  "dayEnd": "2023-10-30T10:30:00+07:00",
+  "trangthaitau": true,
+  "chitietghengoi": {
+    "soluongghe": "150",
+    "soghebanduoc": [],
+    "tinhtrangghe": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6545d910f11c5197de09db48"
+  },
+  "loaichuyen": "Xuất phát",
+  "matau": "SUPERDONG I",
+  "matuyentau": "MTTHTND1",
+  "day": "11/05/2023",
+  "timeStart": "7:00 AM",
+  "timeEnd": "12:39 PM",
+  "title": "2023-11-05T07:00:00+07:00",
+  "dayEnd": "2023-11-05T08:00:00+07:00",
+  "trangthaitau": true,
+  "chitietghengoi": {
+    "soluongghe": "150",
+    "soghebanduoc": [],
+    "tinhtrangghe": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6545d913f11c5197de09db49"
+  },
+  "loaichuyen": "Xuất phát",
+  "matau": "SUPERDONG I",
+  "matuyentau": "MTTHTND1",
+  "day": "11/07/2023",
+  "timeStart": "7:00 AM",
+  "timeEnd": "12:39 PM",
+  "title": "2023-11-07T07:00:00+07:00",
+  "dayEnd": "2023-11-07T08:00:00+07:00",
+  "trangthaitau": true,
+  "chitietghengoi": {
+    "soluongghe": "150",
+    "soghebanduoc": [],
+    "tinhtrangghe": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6545d917f11c5197de09db4a"
+  },
+  "loaichuyen": "Xuất phát",
+  "matau": "SUPERDONG I",
+  "matuyentau": "MTTHTND1",
+  "day": "11/08/2023",
+  "timeStart": "7:00 AM",
+  "timeEnd": "12:39 PM",
+  "title": "2023-11-08T07:00:00+07:00",
+  "dayEnd": "2023-11-08T08:00:00+07:00",
+  "trangthaitau": true,
+  "chitietghengoi": {
+    "soluongghe": "150",
+    "soghebanduoc": [],
+    "tinhtrangghe": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6545d91af11c5197de09db4b"
+  },
+  "loaichuyen": "Xuất phát",
+  "matau": "SUPERDONG I",
+  "matuyentau": "MTTHTND1",
+  "day": "11/06/2023",
+  "timeStart": "7:00 AM",
+  "timeEnd": "12:39 PM",
+  "title": "2023-11-06T07:00:00+07:00",
+  "dayEnd": "2023-11-06T08:00:00+07:00",
+  "trangthaitau": true,
+  "chitietghengoi": {
+    "soluongghe": "150",
+    "soghebanduoc": [],
+    "tinhtrangghe": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6545d91ef11c5197de09db4c"
+  },
+  "loaichuyen": "Xuất phát",
+  "matau": "SUPERDONG I",
+  "matuyentau": "MTTHTND1",
+  "day": "11/09/2023",
+  "timeStart": "7:00 AM",
+  "timeEnd": "12:39 PM",
+  "title": "2023-11-09T07:00:00+07:00",
+  "dayEnd": "2023-11-09T07:30:00+07:00",
+  "trangthaitau": true,
+  "chitietghengoi": {
+    "soluongghe": "150",
+    "soghebanduoc": [],
+    "tinhtrangghe": 0
+  }
+}]

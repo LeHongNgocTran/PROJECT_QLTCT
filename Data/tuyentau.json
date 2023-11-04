@@ -1,105 +1,186 @@
 [{
   "_id": {
-    "$oid": "6408b39e26adce481e710b91"
+    "$oid": "645dbabc825c197f5466613d"
   },
-  "hinhanhmota": "https://superdong.com.vn/wp-content/uploads/2019/02/RG-ND-1.png",
   "diemdi": "Hà Tiên",
-  "diemden": "Phú Quốc",
-  "loai1": "tàu",
-  "loai2": "phà",
-  "giokhoihanh1": [
-    "07:10",
-    "10:00",
-    "12:00",
-    "13:45"
-  ],
-  "giokhoihanh2": [
-    "08:10",
-    "09:15",
-    "12:00",
-    "14:00"
-  ],
-  "giocapben1": [
-    "08:25",
-    "11:15",
-    "13:15",
-    "15:00"
-  ],
-  "giocapben2": [
-    "09:25",
-    "10:30",
-    "13:15",
-    "15;15"
-  ],
-  "loaitau": "SuperDong III-V-VI-XII",
-  "loaipha": "Superdong PI, PII",
-  "taitrong": "275-306",
-  "vantoc": "26-28",
-  "trungchuyen": 40000,
-  "lienhe1": "(0297) 3.955.933",
-  "lienhe2": "0946.61.7070",
-  "note1": "Xe trung chuyển từ cảng Bến Vòng đi Dương Đông • Nhận khách: Cảng Bãi Vòng• Trả khách: Dương Đông",
-  "note2": "Xe trung chuyển từ Dương Đông đi cảng Bãi Vòng • Nhận khách: Dương Đông• Trả khách: Cảng Bãi Vòng",
-  "note3": "Ghế massage: 10.000 /10 phút",
-  "taitrongpha": "229 hành khách; 150 xe máy; 40 xe ô tô 4 chỗ hoặc 25 xe ô tô 7 chỗ hoặc 11 xe tải 13 tấn và nhiều hàng hóa",
-  "trangthai": true,
-  "matuyentau": "MTTHTPQ01"
-},{
-  "_id": {
-    "$oid": "6408b39e26adce481e710b92"
-  },
-  "hinhanhmota": "https://superdong.com.vn/wp-content/uploads/2019/02/RG-ND-1.png",
-  "diemdi": "RẠCH GIÁ",
-  "diemden": "nam du",
-  "loai1": "tàu",
-  "giokhoihanh1": [
-    "07:30",
-    "08:30"
-  ],
-  "giokhoihanh2": [
-    "11:00",
-    "11:15"
-  ],
-  "giocapben1": [
-    "10:00",
-    "11:00"
-  ],
-  "giocapben2": [
-    "13:30",
-    "14:25"
-  ],
-  "loaitau": "SuperDong XI, II",
-  "taitrong": "275-306",
-  "vantoc": "26-28",
-  "trangthai": true,
-  "matuyentau": "MTTRGND02"
-},{
-  "_id": {
-    "$oid": "6408b39e26adce481e710b93"
-  },
-  "hinhanhmota": "https://superdong.com.vn/wp-content/uploads/2019/02/Rach-Gia-Hon-Son-1.jpeg",
-  "diemdi": "RẠCH GIÁ",
-  "diemden": "lại sơn",
-  "loai1": "tàu",
-  "giokhoihanh1": [
-    "07:30",
-    "08:30"
-  ],
-  "giokhoihanh2": [
-    "11:00",
-    "11:15"
-  ],
-  "giocapben1": [
-    "10:00",
-    "11:00"
-  ],
-  "giocapben2": [
-    "13:30",
-    "14:25"
-  ],
-  "loaitau": "SuperDong XI, II",
+  "diemden": "Nam Du",
+  "loai": "tàu",
   "taitrong": "275",
   "vantoc": "26-28",
+  "create_at": {
+    "$date": "2023-05-12T04:04:12.267Z"
+  },
   "trangthai": true,
-  "matuyentau": "MTTRGLS03"
+  "update_at": "",
+  "giavehanhkhach": [
+    {
+      "gia": 400000,
+      "label": "Người lớn"
+    },
+    {
+      "gia": 306000,
+      "label": "Người cao tuổi (từ 60 tuổi trở lên, áp dụng cho công dân VN)"
+    },
+    {
+      "gia": 306000,
+      "label": "Người khuyết tật (áp dụng cho công dân VN)"
+    },
+    {
+      "gia": 288000,
+      "label": "Trẻ em (Từ 6-11 tuổi tính theo năm sinh)"
+    }
+  ],
+  "matuyentau": "MTTHTND1"
+},
+{
+  "_id": {
+    "$oid": "645e0377984eb5de360d0ed8"
+  },
+  "diemdi": "Rạch Giá",
+  "diemden": "Lại Sơn",
+  "loai": "tàu",
+  "taitrong": "275",
+  "vantoc": "26-28",
+  "create_at": {
+    "$date": "2023-05-12T09:14:31.993Z"
+  },
+  "trangthai": true,
+  "update_at": "",
+  "giavehanhkhach": [
+    {
+      "label": "Người lớn",
+      "gia": 230000
+    },
+    {
+      "label": "Người cao tuổi (từ 60 tuổi trở lên, áp dụng cho công dân VN)",
+      "gia": 170000
+    },
+    {
+      "label": "Người khuyết tật (áp dụng cho công dân VN)",
+      "gia": 160000
+    },
+    {
+      "label": "Trẻ em (Từ 6-11 tuổi tính theo năm sinh)",
+      "gia": 195000
+    }
+  ],
+  "matuyentau": "MTTRGLS2"
+},
+{
+  "_id": {
+    "$oid": "645e04d1984eb5de360d0eda"
+  },
+  "loai": "phà",
+  "diemdi": "Hà Tiên",
+  "diemden": "Phú Quốc",
+  "trangthai": true,
+  "taitrong": "229 hành khách; 150 xe máy; 40 xe ô tô 4 chỗ hoặc 25 xe ô tô 7 chỗ hoặc 11 xe tải 13 tấn và nhiều hàng hóa",
+  "vantoc": "26 – 28",
+  "create_at": {
+    "$date": "2023-05-12T09:20:16.936Z"
+  },
+  "update_at": "",
+  "giavehanhkhach": [
+    {
+      "label": "Người lớn",
+      "gia": 185000
+    },
+    {
+      "label": "Người cao tuổi (từ 60 tuổi trở lên, áp dụng cho công dân VN)",
+      "gia": 135000
+    },
+    {
+      "label": "Người khuyết tật (áp dụng cho công dân VN)",
+      "gia": 125000
+    },
+    {
+      "label": "Trẻ em (Từ 6-11 tuổi tính theo năm sinh)",
+      "gia": 155000
+    }
+  ],
+  "giavexe": [
+    {
+      "label": "Xe máy",
+      "gia": 80000
+    },
+    {
+      "label": "Xe ô tô từ 4-5 chỗ",
+      "gia": 700000
+    },
+    {
+      "label": "Xe ô tô trên 9 đến 16 chỗ",
+      "gia": 990000
+    },
+    {
+      "label": "Xe ô tô trên 16 đến 25 chỗ",
+      "gia": 1200000
+    }
+  ],
+  "giavexetai": [
+    {
+      "label": "Xe ba gác (thô sơ)",
+      "gia": 540000
+    },
+    {
+      "label": "Xe tải 500kg - dưới 1.5 tấn",
+      "gia": 1200000
+    },
+    {
+      "label": "Xe tải 1.5 tấn - dưới 2.5 tấn",
+      "gia": 1400000
+    },
+    {
+      "label": "Xe tải 2.5 tấn - dưới 3.5 tấn",
+      "gia": 1600000
+    }
+  ],
+  "giavecontainer": [
+    {
+      "label": "Container 20 feet",
+      "gia": 6000000
+    },
+    {
+      "label": "Container 40 feet",
+      "gia": 8000000
+    },
+    {
+      "label": "Container 45 feet",
+      "gia": 10000000
+    }
+  ],
+  "matuyentau": "MTPHTPQ3"
+},
+{
+  "_id": {
+    "$oid": "645e0cb7f22a32f564b40485"
+  },
+  "diemdi": "Lại Sơn",
+  "diemden": "Rạch Giá",
+  "loai": "tàu",
+  "taitrong": "275",
+  "vantoc": "26-28",
+  "create_at": {
+    "$date": "2023-05-12T09:53:59.747Z"
+  },
+  "trangthai": true,
+  "update_at": "",
+  "giavehanhkhach": [
+    {
+      "label": "Người lớn",
+      "gia": 160000
+    },
+    {
+      "label": "Người cao tuổi (từ 60 tuổi trở lên, áp dụng cho công dân VN)",
+      "gia": 137000
+    },
+    {
+      "label": "Người khuyết tật (áp dụng cho công dân VN)",
+      "gia": 120000
+    },
+    {
+      "label": "Trẻ em (Từ 6-11 tuổi tính theo năm sinh)",
+      "gia": 120000
+    }
+  ],
+  "matuyentau": "MTTLSRG4"
 }]

@@ -1,118 +1,53 @@
 [{
   "_id": {
-    "$oid": "640eb972efd798da11a3b9c5"
+    "$oid": "645e0b4c984eb5de360d0edc"
   },
-  "matuyentau": [
-    {
-      "matuyentau": "MTTRGLS03",
-      "trangthaitau": true
-    }
-  ],
   "matau": "SUPERDONG I",
-  "nhanhieu": "Malaysia",
-  "vantoc": "23-34",
-  "taitrong": "2000",
-  "soluongghe": 150
-},{
-  "_id": {
-    "$oid": "640eb972efd798da11a3b9c6"
-  },
+  "nhanhieu": "Indonesia",
+  "vantoc": "Indonesia",
+  "taitrong": "200",
+  "soluongghe": "150",
   "matuyentau": [
     {
-      "matuyentau": "MTTRGLS03",
+      "matuyentau": "MTTHTND1",
       "trangthaitau": true
     }
   ],
+  "create_at": "2023-05-12T16:47:56+07:00",
+  "update_at": ""
+},
+{
+  "_id": {
+    "$oid": "645e0b5f984eb5de360d0edd"
+  },
   "matau": "SUPERDONG II",
-  "nhanhieu": "Malaysia",
-  "vantoc": "23-34",
-  "taitrong": "2000",
-  "soluongghe": 150
-},{
-  "_id": {
-    "$oid": "640eb972efd798da11a3b9c7"
-  },
+  "nhanhieu": "Indonesia",
+  "vantoc": "Indonesia",
+  "taitrong": "200",
+  "soluongghe": "150",
   "matuyentau": [
     {
-      "matuyentau": "MTTRGLS03",
+      "matuyentau": "MTTHTND1",
       "trangthaitau": true
     },
     {
-      "matuyentau": "MTTHTPQ01",
+      "matuyentau": "MTTRGLS2",
       "trangthaitau": true
     }
   ],
-  "matau": "SUPERDONG III",
-  "nhanhieu": "Malaysia",
-  "vantoc": "23-34",
-  "taitrong": "2000",
-  "soluongghe": 150
-},{
+  "create_at": "2023-05-12T16:48:15+07:00",
+  "update_at": ""
+},
+{
   "_id": {
-    "$oid": "640eb972efd798da11a3b9c8"
+    "$oid": "64be94dd4175a243c28e4c11"
   },
-  "matuyentau": [
-    {
-      "matuyentau": "MTTRGLS03",
-      "trangthaitau": true
-    },
-    {
-      "matuyentau": "MTTHTPQ01",
-      "trangthaitau": true
-    }
-  ],
-  "matau": "SUPERDONG IV",
-  "nhanhieu": "Malaysia",
-  "vantoc": "23-34",
-  "taitrong": "2000",
-  "soluongghe": 150
-},{
-  "_id": {
-    "$oid": "64174e1d08a4b54223bc36bc"
-  },
-  "matuyentau": [
-    {
-      "matuyentau": "MTTHTPQ01",
-      "trangthaitau": true
-    }
-  ],
-  "matau": "SUPERDONG V",
-  "nhanhieu": "Malaysia",
-  "vantoc": "23-34",
-  "taitrong": "2000",
-  "soluongghe": 150
-},{
-  "_id": {
-    "$oid": "640eb972efd798da11a3b9ca"
-  },
-  "matuyentau": [
-    {
-      "matuyentau": "MTTHTPQ01",
-      "trangthaitau": true
-    }
-  ],
-  "matau": "SUPERDONG VI",
-  "nhanhieu": "Malaysia",
-  "vantoc": "23-34",
-  "taitrong": "2000",
-  "soluongghe": 150
-},{
-  "_id": {
-    "$oid": "640eb972efd798da11a3b9cb"
-  },
-  "matuyentau": [
-    {
-      "matuyentau": "MTTRGLS03",
-      "trangthaitau": false
-    },
-    {
-      "matuyentau": "MTTHTPQ01",
-      "trangthaitau": true
-    }
-  ],
-  "matau": "SUPERDONG VII",
-  "nhanhieu": "Malaysia",
-  "vantoc": "23-34",
-  "taitrong": "2000",
-  "soluongghe": 150
+  "matau": "SUPERDOGN !!@!",
+  "nhanhieu": "May",
+  "vantoc": "May",
+  "taitrong": "123123",
+  "soluongghe": "1231",
+  "matuyentau": [],
+  "create_at": "2023-07-24T22:12:29+07:00",
+  "update_at": ""
 }]

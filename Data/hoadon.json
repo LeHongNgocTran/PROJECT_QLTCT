@@ -1,0 +1,601 @@
+[{
+  "_id": {
+    "$oid": "645f48a6a8067da4a354bd01"
+  },
+  "loaive": "Một chiều",
+  "tennguoidatve": "Lê Hồng Ngọc Trân",
+  "sodienthoai": "0389006211",
+  "email": "lengoctran080901@gmail.com",
+  "check": "true",
+  "tongtien": 400000,
+  "matuyentaudi": "MTTHTND1",
+  "matau": "SUPERDONG II",
+  "thoigiandi": "2023-05-15T09:00:00+07:00",
+  "tennguoimuahang": "Lê Hồng Ngọc Trân",
+  "tencongty": "Đại học Cần Thơ",
+  "masothue": "0123456789",
+  "diachi": "Khu 2, Đại học Cần Thơ, TP.Cần Thơ",
+  "payment": "paypal",
+  "orderId": "9W98791365909700E",
+  "create_at": "2023-05-13T08:21:42Z",
+  "thongtinhanhkhach": [
+    {
+      "cccd": "093301008073",
+      "hoten": "Lê Hồng Ngọc Trân",
+      "noisinh": "Hậu Giang",
+      "date": "2001-08-09",
+      "loaive": "Người lớn",
+      "dienthoai": "0389006211",
+      "quoctich": "Vietnam",
+      "email": "lengoctran080901@gmail.com",
+      "vitringoi": "V6D",
+      "vitringoikhuhoi": "",
+      "gia": "400000"
+    }
+  ],
+  "update_at": {
+    "$date": "2023-05-15T01:09:49.852Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "645f4aeba8067da4a354bd02"
+  },
+  "loaive": "Khứ hồi",
+  "tennguoidatve": "Lê Hồng Ngọc Trân",
+  "sodienthoai": "0389006211",
+  "email": "lengoctran080901@gmail.com",
+  "check": "true",
+  "tongtien": 1412000,
+  "matuyentaudi": "MTTHTND1",
+  "matau": "SUPERDONG I",
+  "thoigiandi": "2023-05-14T07:00:00+07:00",
+  "matuyentaukhuhoi": "MTTHTND1",
+  "mataukhuhoi": "SUPERDONG I",
+  "thoigiankhuhoi": "2023-05-16T13:00:00+07:00",
+  "tennguoimuahang": "Lê Hồng Ngọc Trân",
+  "tencongty": "Đại học Cần Thơ",
+  "masothue": "1234567890",
+  "diachi": "Khu 2, Đại học Cần Thơ, TP.Cần Thơ",
+  "payment": "paypal",
+  "orderId": "59T95538L2249820A",
+  "create_at": "2023-05-13T08:31:30Z",
+  "thongtinhanhkhach": [
+    {
+      "cccd": "093301008073",
+      "hoten": "Lê Hồng Ngọc Trân",
+      "noisinh": "Hậu Giang",
+      "date": "2001-08-09",
+      "loaive": "Người lớn",
+      "dienthoai": "0389006211",
+      "quoctich": "Vietnam",
+      "email": "lengoctran080901@gmail.com",
+      "vitringoi": "V3A",
+      "vitringoikhuhoi": "V2A",
+      "gia": "400000"
+    },
+    {
+      "cccd": "093301008073",
+      "hoten": "Nguyễn Thị Huế Minh",
+      "noisinh": "Vĩnh Long",
+      "date": "2001-08-09",
+      "loaive": "Người cao tuổi (từ 60 tuổi trở lên, áp dụng cho công dân VN)",
+      "dienthoai": "0389006211",
+      "quoctich": "Czechia",
+      "email": "lengoctran080901@gmail.com",
+      "vitringoi": "V4A",
+      "vitringoikhuhoi": "V2B",
+      "gia": "306000"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "645f4bfca8067da4a354bd03"
+  },
+  "loaive": "Một chiều",
+  "tennguoidatve": "Lê Hồng Ngọc Trân",
+  "sodienthoai": "0389006211",
+  "email": "lengoctran080901@gmail.com",
+  "check": "true",
+  "tongtien": 400000,
+  "matuyentaudi": "MTTHTND1",
+  "matau": "SUPERDONG II",
+  "thoigiandi": "2023-05-18T11:30:00+07:00",
+  "tennguoimuahang": "Lê Hồng Ngọc Trân",
+  "tencongty": "Đại học Cần Thơ",
+  "masothue": "1234567890",
+  "diachi": "Khu 2, Đại học Cần Thơ, TP.Cần Thơ",
+  "payment": "paypal",
+  "orderId": "13X1503450211691R",
+  "create_at": "2023-05-13T08:36:04Z",
+  "thongtinhanhkhach": [
+    {
+      "cccd": "093301008073",
+      "hoten": "Lê Hồng Ngọc Trân",
+      "noisinh": "Hậu Giang",
+      "date": "2001-08-09",
+      "loaive": "Người lớn",
+      "dienthoai": "0389006211",
+      "quoctich": "Vietnam",
+      "email": "ngoctran@gmai.com",
+      "vitringoi": "8A",
+      "vitringoikhuhoi": "",
+      "gia": "400000"
+    }
+  ],
+  "mataikhoan": "0911099025",
+  "update_at": {
+    "$date": "2023-05-13T08:38:10.973Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "645f5415a8067da4a354bd04"
+  },
+  "thongtinhanhkhach": [
+    {
+      "cccd": "093301008073",
+      "hoten": "Lê Hồng Ngọc Trân",
+      "noisinh": "Hậu Giang",
+      "date": "2001-08-09",
+      "loaive": "Người lớn",
+      "dienthoai": "0389006211",
+      "quoctich": "Vietnam",
+      "email": "lengoctran080901@gmail.com",
+      "vitringoi": "4B",
+      "vitringoikhuhoi": "",
+      "gia": "400000"
+    }
+  ],
+  "loaive": "Một chiều",
+  "tennguoidatve": "Lê Hồng Ngọc Trân",
+  "sodienthoai": "0389006211",
+  "email": "lengoctran080901@gmail.com",
+  "check": true,
+  "tongtien": 400000,
+  "matuyentaudi": "MTTHTND1",
+  "matau": "SUPERDONG II",
+  "thoigiandi": "2023-05-14T07:00:00+07:00",
+  "payment": "cash",
+  "tienkhachdua": "500000",
+  "mataikhoan": "0389006215",
+  "idPhongVe": "PVHCM",
+  "tienthua": 100000,
+  "orderId": "FERRYORD3",
+  "create_at": {
+    "$date": "2023-05-13T09:10:45.755Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "645f55aaa8067da4a354bd05"
+  },
+  "thongtinhanhkhach": [
+    {
+      "cccd": "093301008073",
+      "hoten": "Lê Hồng Ngọc Trân",
+      "noisinh": "Hậu Giang",
+      "date": "2001-08-09",
+      "loaive": "Người lớn",
+      "dienthoai": "0389006211",
+      "quoctich": "Vietnam",
+      "email": "lengoctran080901@gmail.com",
+      "vitringoi": "1A",
+      "vitringoikhuhoi": "V5A",
+      "gia": "400000"
+    }
+  ],
+  "loaive": "Khứ hồi",
+  "tennguoidatve": "Lê Hồng Ngọc Trân",
+  "sodienthoai": "0389006211",
+  "email": "lengoctran080901@gmail.com",
+  "check": true,
+  "tongtien": 800000,
+  "matuyentaudi": "MTTHTND1",
+  "matau": "SUPERDONG II",
+  "thoigiandi": "2023-05-14T07:00:00+07:00",
+  "matuyentaukhuhoi": "MTTHTND1",
+  "mataukhuhoi": "SUPERDONG I",
+  "thoigiankhuhoi": "2023-05-18T13:00:00+07:00",
+  "tennguoimuahang": "Lê Hồng Ngọc Trân",
+  "tencongty": "KMS",
+  "masothue": "01234568790",
+  "diachi": "Khu 2, Đại học Cần Thơ, TP.Cần Thơ",
+  "payment": "cash",
+  "tienkhachdua": "1000000",
+  "mataikhoan": "0389006214",
+  "idPhongVe": "PVND",
+  "tienthua": 200000,
+  "orderId": "FERRYORD4",
+  "create_at": {
+    "$date": "2023-05-13T09:17:30.007Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64606509b48c053a4cb1f844"
+  },
+  "loaive": "Khứ hồi",
+  "tennguoidatve": "Lê Thị Yến Lụa",
+  "sodienthoai": "0384944147",
+  "email": "luab1910408@student.ctu.edu.vn",
+  "check": "true",
+  "tongtien": 800000,
+  "matuyentaudi": "MTTHTND1",
+  "matau": "SUPERDONG I",
+  "thoigiandi": "2023-05-15T07:00:00+07:00",
+  "matuyentaukhuhoi": "MTTHTND1",
+  "mataukhuhoi": "SUPERDONG I",
+  "thoigiankhuhoi": "2023-05-16T13:00:00+07:00",
+  "tennguoimuahang": "Lê Thị Yến Lụa",
+  "tencongty": "Đại học Cần Thơ",
+  "masothue": "1234",
+  "diachi": "Khu 2, Đại học Cần Thơ, TP.Cần Thơ",
+  "payment": "paypal",
+  "orderId": "4S256969UH112250C",
+  "create_at": "2023-05-14T04:34:57Z",
+  "thongtinhanhkhach": [
+    {
+      "cccd": "093301008073",
+      "hoten": "Lê Thị Yến Lụa",
+      "noisinh": "Hậu Giang",
+      "date": "2001-07-09",
+      "loaive": "Người lớn",
+      "dienthoai": "0384944147",
+      "quoctich": "Vietnam",
+      "email": "luab1910408@student.ctu.edu.vn",
+      "vitringoi": "V3C",
+      "vitringoikhuhoi": "V2B",
+      "gia": "400000"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64606a5db48c053a4cb1f845"
+  },
+  "loaive": "Một chiều",
+  "tennguoidatve": "Nguyễn Quốc Trạng",
+  "sodienthoai": "0123456789",
+  "email": "waipayttt@gmail.com",
+  "check": "true",
+  "tongtien": 288000,
+  "matuyentaudi": "MTTHTND1",
+  "matau": "SUPERDONG I",
+  "thoigiandi": "2023-05-14T07:00:00+07:00",
+  "tennguoimuahang": "Nguyễn Quốc Trạng",
+  "tencongty": "Bstar Solutions",
+  "masothue": "9999 ",
+  "diachi": "HCMC",
+  "payment": "paypal",
+  "orderId": "95K24752D6562915U",
+  "create_at": "2023-05-14T04:57:59Z",
+  "thongtinhanhkhach": [
+    {
+      "cccd": "093301008073",
+      "hoten": "Nguyễn Quốc Trạng",
+      "noisinh": "Cà Mau",
+      "date": "2001-12-04",
+      "loaive": "Trẻ em (Từ 6-11 tuổi tính theo năm sinh)",
+      "dienthoai": "0123456789",
+      "quoctich": "Mexico",
+      "email": "waipayttt@gmail.com",
+      "vitringoi": "V1A",
+      "vitringoikhuhoi": "",
+      "gia": "288000"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "646183246db7c885b5dcf9eb"
+  },
+  "loaive": "Một chiều",
+  "tennguoidatve": "Lê Hồng Ngọc Trân",
+  "sodienthoai": "0389006211",
+  "email": "lengoctran080901@gmail.com",
+  "check": "true",
+  "tongtien": 1718000,
+  "matuyentaudi": "MTTHTND1",
+  "matau": "SUPERDONG II",
+  "thoigiandi": "2023-05-15T09:00:00+07:00",
+  "orderId": "46T222708V201110V",
+  "create_at": "2023-05-15T00:55:47Z",
+  "thongtinhanhkhach": [
+    {
+      "cccd": "093301008073",
+      "hoten": "Lê Hồng Ngọc Trân",
+      "noisinh": "Hậu Giang",
+      "date": "",
+      "loaive": "",
+      "dienthoai": "",
+      "quoctich": "",
+      "email": "",
+      "vitringoi": "V5B",
+      "vitringoikhuhoi": "",
+      "gia": 0
+    },
+    {
+      "cccd": "093301008073",
+      "hoten": "Lê Hồng Ngọc Trân",
+      "noisinh": "Hậu Giang",
+      "date": "2023-05-16",
+      "loaive": "Người cao tuổi (từ 60 tuổi trở lên, áp dụng cho công dân VN)",
+      "dienthoai": "",
+      "quoctich": "",
+      "email": "lengoctran080901@gmail.com",
+      "vitringoi": "V3C",
+      "vitringoikhuhoi": "",
+      "gia": "306000"
+    },
+    {
+      "cccd": "093301008073",
+      "hoten": "Lê Hồng Ngọc Trân",
+      "noisinh": "Hậu Giang",
+      "date": "2023-05-16",
+      "loaive": "Người cao tuổi (từ 60 tuổi trở lên, áp dụng cho công dân VN)",
+      "dienthoai": "",
+      "quoctich": "",
+      "email": "",
+      "vitringoi": "V4E",
+      "vitringoikhuhoi": "",
+      "gia": "306000"
+    },
+    {
+      "cccd": "093301008073",
+      "hoten": "Lê Hồng Ngọc Trân",
+      "noisinh": "Hậu Giang",
+      "date": "2023-05-16",
+      "loaive": "Người cao tuổi (từ 60 tuổi trở lên, áp dụng cho công dân VN)",
+      "dienthoai": "0389006211",
+      "quoctich": "Myanmar",
+      "email": "lengoctran080901@gmail.com",
+      "vitringoi": "V6B",
+      "vitringoikhuhoi": "",
+      "gia": "306000"
+    },
+    {
+      "cccd": "093301008073",
+      "hoten": "Trần Thị Kim Linh",
+      "noisinh": "Hậu Giang",
+      "date": "2023-05-17",
+      "loaive": "Người lớn",
+      "dienthoai": "0389006211",
+      "quoctich": "Bulgaria",
+      "email": "kimlinhtr@gmail.com",
+      "vitringoi": "V5F",
+      "vitringoikhuhoi": "",
+      "gia": "400000"
+    },
+    {
+      "cccd": "093301008073",
+      "hoten": "Lê Hồng Ngọc Trân",
+      "noisinh": "Hậu Giang",
+      "date": "2023-05-19",
+      "loaive": "Người lớn",
+      "dienthoai": "0389006211",
+      "quoctich": "Afghanistan",
+      "email": "lengoctran080901@gmail.com",
+      "vitringoi": "V5A",
+      "vitringoikhuhoi": "",
+      "gia": "400000"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64619e7611a1afcff4c0dd44"
+  },
+  "loaive": "Khứ hồi",
+  "tennguoidatve": "Lê Hồng Ngọc Trân",
+  "sodienthoai": "0389006211",
+  "email": "lengoctran080901@gmail.com",
+  "check": "true",
+  "tongtien": 800000,
+  "matuyentaudi": "MTTHTND1",
+  "matau": "SUPERDONG II",
+  "thoigiandi": "2023-05-15T09:00:00+07:00",
+  "matuyentaukhuhoi": "MTTHTND1",
+  "mataukhuhoi": "SUPERDONG II",
+  "thoigiankhuhoi": "2023-05-18T11:30:00+07:00",
+  "payment": "paypal",
+  "orderId": "5E0042324V563702Y",
+  "create_at": "2023-05-15T02:52:34Z",
+  "thongtinhanhkhach": [
+    {
+      "cccd": "093301008073",
+      "hoten": "Lê Hồng Ngọc Trân",
+      "noisinh": "Hậu Giang",
+      "date": "2001-08-09",
+      "loaive": "Người lớn",
+      "dienthoai": "0389006211",
+      "quoctich": "Vietnam",
+      "email": "lengoctran080901@gmail.com",
+      "vitringoi": "1A",
+      "vitringoikhuhoi": "5A",
+      "gia": "400000"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6461df6f651955cbe947d928"
+  },
+  "loaive": "Khứ hồi",
+  "tennguoidatve": "Lê Hồng Ngọc Trân",
+  "sodienthoai": "0389006211",
+  "email": "lengoctran080901@gmail.com",
+  "check": "true",
+  "tongtien": 1376000,
+  "matuyentaudi": "MTTHTND1",
+  "matau": "SUPERDONG II",
+  "thoigiandi": "2023-05-18T07:30:00+07:00",
+  "matuyentaukhuhoi": "MTTHTND1",
+  "mataukhuhoi": "SUPERDONG I",
+  "thoigiankhuhoi": "2023-05-19T12:30:00+07:00",
+  "payment": "paypal",
+  "orderId": "7YL63108JG4079242",
+  "create_at": "2023-05-15T07:29:53Z",
+  "thongtinhanhkhach": [
+    {
+      "cccd": "093301008073",
+      "hoten": "Lê Hồng Ngọc Trân",
+      "noisinh": "Hậu Giang",
+      "date": "2001-08-09",
+      "loaive": "Người lớn",
+      "dienthoai": "0389006211",
+      "quoctich": "Vietnam",
+      "email": "lengoctran080901@gmail.com",
+      "vitringoi": "V2A",
+      "vitringoikhuhoi": "4A",
+      "gia": "400000"
+    },
+    {
+      "cccd": "093301008073",
+      "hoten": "Trần Thị Kim Linh",
+      "noisinh": "Hậu Giang",
+      "date": "2001-08-09",
+      "loaive": "Trẻ em (Từ 6-11 tuổi tính theo năm sinh)",
+      "dienthoai": "0389006211",
+      "quoctich": "Vietnam",
+      "email": "lengoctran080901@gmail.com",
+      "vitringoi": "V2B",
+      "vitringoikhuhoi": "4B",
+      "gia": "288000"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6461e0fa651955cbe947d92a"
+  },
+  "loaive": "Một chiều",
+  "tennguoidatve": "Lê Hồng Ngọc Trân",
+  "sodienthoai": "0389006211",
+  "email": "lengoctran080901@gmail.com",
+  "check": "true",
+  "tongtien": 400000,
+  "matuyentaudi": "MTTHTND1",
+  "matau": "SUPERDONG II",
+  "thoigiandi": "2023-05-18T07:30:00+07:00",
+  "payment": "paypal",
+  "orderId": "2S312287FT1832818",
+  "create_at": "2023-05-15T07:36:32Z",
+  "thongtinhanhkhach": [
+    {
+      "cccd": "093301008073",
+      "hoten": "Lê Hồng Ngọc Trân",
+      "noisinh": "Hậu Giang",
+      "date": "2001-08-09",
+      "loaive": "Người lớn",
+      "dienthoai": "0389006211",
+      "quoctich": "Vietnam",
+      "email": "lengoctran080901@gmail.com",
+      "vitringoi": "V2B",
+      "vitringoikhuhoi": "",
+      "gia": "400000"
+    }
+  ],
+  "mataikhoan": "0911099022",
+  "update_at": {
+    "$date": "2023-05-15T07:37:48.686Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64be93844175a243c28e4c10"
+  },
+  "loaive": "Khứ hồi",
+  "tennguoidatve": "Lê Hồng Ngọc Trân",
+  "sodienthoai": "0389006211",
+  "email": "ngoctran080901@gmail.com",
+  "check": "true",
+  "tongtien": 1764000,
+  "matuyentaudi": "MTTHTND1",
+  "matau": "SUPERDONG I",
+  "thoigiandi": "2023-07-25T01:00:00+07:00",
+  "matuyentaukhuhoi": "MTTHTND1",
+  "mataukhuhoi": "SUPERDONG I",
+  "thoigiankhuhoi": "2023-07-25T11:00:00+07:00",
+  "payment": "paypal",
+  "orderId": "5274450158070135Y",
+  "create_at": "2023-07-24T15:06:33Z",
+  "thongtinhanhkhach": [
+    {
+      "cccd": "0876551234567",
+      "hoten": "Ngọc Trân",
+      "noisinh": "Hậu Giang",
+      "date": "2001-08-09",
+      "loaive": "Người cao tuổi (từ 60 tuổi trở lên, áp dụng cho công dân VN)",
+      "dienthoai": "0389006211",
+      "quoctich": "Vietnam",
+      "email": "ngoctran080901@gmail.com",
+      "vitringoi": "4A",
+      "vitringoikhuhoi": "V1A",
+      "gia": "306000"
+    },
+    {
+      "cccd": "0876551234567",
+      "hoten": "123123",
+      "noisinh": "12323123",
+      "date": "2023-07-30",
+      "loaive": "Trẻ em (Từ 6-11 tuổi tính theo năm sinh)",
+      "dienthoai": "123123123",
+      "quoctich": "Vanuatu",
+      "email": "123123123123@gmail.com",
+      "vitringoi": "4B",
+      "vitringoikhuhoi": "V1B",
+      "gia": "288000"
+    },
+    {
+      "cccd": "1231312",
+      "hoten": "123123",
+      "noisinh": "123123123",
+      "date": "2023-07-31",
+      "loaive": "Trẻ em (Từ 6-11 tuổi tính theo năm sinh)",
+      "dienthoai": "2312312312",
+      "quoctich": "Cook Islands",
+      "email": "lengoctran080901@gmail.com",
+      "vitringoi": "4C",
+      "vitringoikhuhoi": "V1C",
+      "gia": "288000"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64be96604175a243c28e4c13"
+  },
+  "loaive": "Một chiều",
+  "tennguoidatve": "Lê Hồng Ngọc Trân",
+  "sodienthoai": "0389006211",
+  "email": "ngoctran080901@gmail.com",
+  "check": "true",
+  "tongtien": 400000,
+  "matuyentaudi": "MTTHTND1",
+  "matau": "SUPERDONG I",
+  "thoigiandi": "2023-07-26T01:00:00+07:00",
+  "payment": "paypal",
+  "orderId": "6PH030036P559533T",
+  "create_at": "2023-07-24T15:18:56Z",
+  "thongtinhanhkhach": [
+    {
+      "cccd": "0876551234567",
+      "hoten": "Lê Hồng",
+      "noisinh": "Hậu Giang",
+      "date": "2001-08-02",
+      "loaive": "Người lớn",
+      "dienthoai": "0389006211",
+      "quoctich": "Vietnam",
+      "email": "minh@gmail.com",
+      "vitringoi": "V3C",
+      "vitringoikhuhoi": "",
+      "gia": "400000"
+    }
+  ],
+  "mataikhoan": "0911099025",
+  "update_at": {
+    "$date": "2023-07-24T15:19:56.693Z"
+  }
+}]

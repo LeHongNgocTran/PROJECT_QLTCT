@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Data"
+		},
+		{
+			"path": "../Frontend"
+		}
+	],
+	"settings": {
+		"cSpell.words": [
+			"tuyentau"
+		],
+		"vue.features.codeActions.enable": false
+	}
+}
